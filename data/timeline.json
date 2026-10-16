@@ -1,1 +1,45 @@
-{"lede":"Die Stationen der drei Gefechte und ihres Feldzugs, mit Verweisen in die Texte.","lede_en":"The stations of the three actions and their campaign, with links into the texts.","stations":[]}
+{
+ "lede": "Die Stationen der drei Gefechte und ihres Feldzugs, mit Verweisen in die Texte. Wo die Quellen verschiedene Daten nennen, stehen beide.",
+ "lede_en": "The stations of the three actions and their campaign, with links into the texts. Where the sources give different dates, both stand.",
+ "stations": [
+  {
+   "d": "21. Mai 1796 (nach Jourdan)",
+   "d_en": "21 May 1796 (Jourdan)",
+   "side": "kais",
+   "titel": "Die Kündigung des Waffenstillstands",
+   "titel_en": "The armistice denounced",
+   "text": "Die Österreicher kündigen den Waffenstillstand am Rhein; die Feindseligkeiten sollen am 31. Mai beginnen. Carl spricht von einer Aufkündigung am 31. Mai und vom 1. Juni als Beginn.",
+   "text_en": "The Austrians denounce the armistice on the Rhine; hostilities are to begin on 31 May. Charles speaks of a denunciation on 31 May and of 1 June as the start.",
+   "cite": "#/text/feldzug/kuendigung/1",
+   "citeLabel": "Jourdan S. 20",
+   "citeLabel_en": "Jourdan p. 20",
+   "plate": "jourdan"
+  },
+  {
+   "d": "31. Mai 1796",
+   "d_en": "31 May 1796",
+   "side": "frz",
+   "titel": "Die Armeen in ihren Stellungen",
+   "titel_en": "The armies in their positions",
+   "text": "Kléber steht mit Lefebvre und Collaud bei Düsseldorf und rückt in ein Lager zwischen Porz und Bensberg; der Prinz von Württemberg hat sein Korps zwischen Altenkirchen, Hachenburg und Dierdorf gesammelt.",
+   "text_en": "Kléber stands with Lefebvre and Collaud at Düsseldorf and moves into a camp between Porz and Bensberg; the Prince of Württemberg has gathered his corps between Altenkirchen, Hachenburg and Dierdorf.",
+   "cite": "#/text/feldzug/plan/4",
+   "citeLabel": "Jourdan S. 22–23; Carl II S. 45–46",
+   "citeLabel_en": "Jourdan pp. 22–23; Charles II pp. 45–46",
+   "plate": "vizfeldzug"
+  },
+  {
+   "d": "1. Juni 1796 (nach Carl)",
+   "d_en": "1 June 1796 (Charles)",
+   "side": "frz",
+   "titel": "Kléber soll angreifen",
+   "titel_en": "Kléber is to attack",
+   "text": "Kléber trifft alle Anstalten, den Befehl zum Angriff auf die Österreicher hinter der Sieg am 1. Juni auszuführen.",
+   "text_en": "Kléber makes every arrangement to carry out the order to attack the Austrians behind the Sieg on 1 June.",
+   "cite": "#/text/feldzug/plan/7",
+   "citeLabel": "Carl II S. 45",
+   "citeLabel_en": "Charles II p. 45",
+   "plate": "kleber"
+  }
+ ]
+}

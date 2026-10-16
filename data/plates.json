@@ -1,1 +1,63 @@
-{"lede":"","lede_en":"","credit":"","credit_en":"","plates":[]}
+{
+ "lede": "Bildnisse, Karten und Pläne aus gemeinfreien Beständen, und die Grafiken des Apparats. Jede Tafel nennt ihr Original.",
+ "lede_en": "Portraits, maps and plans from public-domain holdings, and the apparatus's own graphics. Every plate names its original.",
+ "credit": "Gemeinfreie Bilder über Wikimedia Commons, jeweils mit ihrem Original genannt; eigene Grafiken CC BY 4.0, Flüsse aus Natural Earth (gemeinfrei).",
+ "credit_en": "Public-domain images via Wikimedia Commons, each named with its original; the apparatus's own graphics CC BY 4.0, rivers from Natural Earth (public domain).",
+ "plates": [
+  {
+   "id": "vizfeldzug",
+   "side": "kais",
+   "titel": "Die Stellungen am 31. Mai 1796",
+   "titel_en": "The positions on 31 May 1796",
+   "caption": "Grafik des Apparats nach Jourdan (Mémoires, S. 22–23) und Erzherzog Carl (Grundsätze II, S. 46–47): Kléber bei Düsseldorf, Jourdans Hauptquartier in Kirchberg im Hunsrück, das Gros des Erzherzogs bei Baumholder, der Prinz von Württemberg zwischen Altenkirchen, Hachenburg und Dierdorf, seine Vorhut an der Sieg. Orte nach heutigen Koordinaten; Sieg und Lahn nur beschriftet.",
+   "caption_en": "The apparatus's graphic after Jourdan (Mémoires, pp. 22–23) and Archduke Charles (Grundsätze II, pp. 46–47): Kléber at Düsseldorf, Jourdan's headquarters at Kirchberg in the Hunsrück, the Archduke's main body at Baumholder, the Prince of Württemberg between Altenkirchen, Hachenburg and Dierdorf, his advance guard on the Sieg. Places by today's coordinates; the Sieg and the Lahn only labelled.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/feldzug/plan/4"
+  },
+  {
+   "id": "carl",
+   "side": "kais",
+   "titel": "Erzherzog Carl",
+   "titel_en": "Archduke Charles",
+   "caption": "Erzherzog Carl von Österreich, Bildnis von Johann Baptist Seele, 1800. 1796 führte er die kaiserliche Armee am Niederrhein; 1814 schrieb er die Geschichte dieses Feldzugs als Lehrbuch der Strategie.",
+   "caption_en": "Archduke Charles of Austria, portrait by Johann Baptist Seele, 1800. In 1796 he commanded the Imperial army on the Lower Rhine; in 1814 he wrote the history of that campaign as a textbook of strategy.",
+   "source": "Wikimedia Commons, Archduke Charles of Austria (J.B. Seele, 1800).jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Archduke_Charles_of_Austria_%28J.B._Seele%2C_1800%29.jpg",
+   "cite": "#/text/feldzug/kuendigung/3"
+  },
+  {
+   "id": "jourdan",
+   "side": "frz",
+   "titel": "Jean-Baptiste Jourdan",
+   "titel_en": "Jean-Baptiste Jourdan",
+   "caption": "Jean-Baptiste Jourdan, Oberbefehlshaber der Sambre-und-Maas-Armee 1796, Bildnis von Julie Volpelière nach Horace Vernet, 1834. Seine Erinnerungen an den Feldzug erschienen 1818.",
+   "caption_en": "Jean-Baptiste Jourdan, commander-in-chief of the Army of the Sambre and Meuse in 1796, portrait by Julie Volpelière after Horace Vernet, 1834. His memoirs of the campaign appeared in 1818.",
+   "source": "Wikimedia Commons, JEAN BAPTISTE JOURDAN (1762-1833).jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:JEAN_BAPTISTE_JOURDAN_%281762-1833%29.jpg",
+   "cite": "#/text/feldzug/kuendigung/1"
+  },
+  {
+   "id": "kleber",
+   "side": "frz",
+   "titel": "Jean-Baptiste Kléber",
+   "titel_en": "Jean-Baptiste Kléber",
+   "caption": "General Jean-Baptiste Kléber, Bildnis von Louis-Léopold Boilly, 1800, Musée Carnavalet, Paris. 1796 führte er den linken Flügel der Sambre-und-Maas-Armee über die Sieg.",
+   "caption_en": "General Jean-Baptiste Kléber, portrait by Louis-Léopold Boilly, 1800, Musée Carnavalet, Paris. In 1796 he led the left wing of the Army of the Sambre and Meuse across the Sieg.",
+   "source": "Wikimedia Commons, Louis Léopold Boilly - Portrait du général Jean-Baptiste Kléber (1753-1800) - P720 - Musée Carnavalet.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Louis_L%C3%A9opold_Boilly_-_Portrait_du_g%C3%A9n%C3%A9ral_Jean-Baptiste_Kl%C3%A9ber_%281753-1800%29_-_P720_-_Mus%C3%A9e_Carnavalet.jpg",
+   "cite": "#/text/feldzug/plan/5"
+  },
+  {
+   "id": "wuerttemberg",
+   "side": "kais",
+   "titel": "Ferdinand von Württemberg",
+   "titel_en": "Ferdinand of Württemberg",
+   "caption": "Prinz Ferdinand von Württemberg, Lithographie von Friedrich Lieder und Alois von Saar, um 1830. 1796 führte er den rechten Flügel der kaiserlichen Armee zwischen Lahn und Sieg.",
+   "caption_en": "Prince Ferdinand of Württemberg, lithograph by Friedrich Lieder and Alois von Saar, about 1830. In 1796 he commanded the right wing of the Imperial army between the Lahn and the Sieg.",
+   "source": "Wikimedia Commons, Ferdinand Württemberg Litho.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Ferdinand_W%C3%BCrttemberg_Litho.jpg",
+   "cite": "#/text/feldzug/sieg/9"
+  }
+ ]
+}

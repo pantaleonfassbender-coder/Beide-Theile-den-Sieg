@@ -206,7 +206,7 @@ async function reader([id, secId, unitN]) {
     box.insertAdjacentHTML("beforeend", `
       <div class="${cls}" id="u${u.n}">
         <div class="num"><a href="#/text/${id}/${sec.id}/${u.n}" title="${esc(S("cite"))} ${esc(sec.zk)} [${u.n}]">[${u.n}]</a>
-          ${u.pg ? `<span class="pg">${esc(t.pg_label || "")} ${esc(u.pg)}</span>` : ""}</div>
+          ${u.pg ? `<span class="pg">${esc(t.pg_label || "")} ${esc(pgL(u.pg))}</span>` : ""}</div>
         <div>${u.titel ? `<h4>${esc(L(u, "titel"))}${u.lang && langs.length > 1 ? ` <span class="fine">(${esc(lname(u.lang))})</span>` : ""}</h4>` : ""}
           <div class="cols ${showO && showE ? "" : "one"}">
             ${showO ? `<div class="orig" lang="${esc(ul)}">${esc(u.orig)}</div>` : ""}
@@ -223,6 +223,9 @@ async function reader([id, secId, unitN]) {
   if (unitN) { const el = document.getElementById("u" + unitN); if (el) el.scrollIntoView({ block: "center" }); }
 }
 
+// Seitenangaben "S. 20–21" in der englischen Oberfläche als "pp. 20–21"
+const pgL = pg => ui === "en" ? pg.replace(/\bS\. (\d+)\s*[–-]\s*(\d+)/g, "pp. $1–$2").replace(/\bS\. /g, "p. ") : pg;
+
 /* ------------------------------------------------------------ compare */
 async function compare([pid]) {
   const CMP = D.compare;
@@ -232,7 +235,7 @@ async function compare([pid]) {
       <span class="tag">${esc(S("cmpTag"))}</span><h1>${esc(S("cmpH"))}</h1>
       <p class="lede">${esc(L(CMP, "lede"))}</p>
       <div class="grid g2">${(CMP.pairs || []).map(p => `<a class="card" href="#/compare/${p.id}">
-        <div>${p.voices.map(v => side((D.mods.shipped.find(m => m.id === v.text) || {}).side)).join(" ")}</div>
+        <div>${p.voices.map(v => side(v.side || (D.mods.shipped.find(m => m.id === v.text) || {}).side)).join(" ")}</div>
         <h3>${esc(L(p, "titel"))}</h3><p class="fine">${esc(L(p, "frage"))}</p></a>`).join("")}</div>`;
     return;
   }
@@ -245,7 +248,7 @@ async function compare([pid]) {
     const sec = t.sections.find(s => s.id === v.sec);
     const units = v.n.map(n => sec.units.find(u => u.n === n)).filter(Boolean);
     return `<div class="voice">
-      <div class="vhead">${side(m.side)} <b>${esc(L(t, "autor"))}</b><br><span class="fine">${esc(t.jahr)} · ${esc(L(sec, "titel"))}</span></div>
+      <div class="vhead">${side(v.side || m.side)} <b>${esc(v.autor ? L(v, "autor") : L(t, "autor"))}</b><br><span class="fine">${esc(t.jahr)} · ${esc(L(sec, "titel"))}</span></div>
       ${units.map(u => `<div class="vunit">
         <div class="fine"><a href="#/text/${m.id}/${sec.id}/${u.n}">${esc(sec.zk)} [${u.n}]</a>${u.titel ? ` · ${esc(L(u, "titel"))}` : ""}</div>
         <div class="text">${esc(ui === "de" && u.orig && (u.lang || t.orig_sprache) === "de" ? u.orig : tr(u, u.lang || t.orig_sprache))}</div></div>`).join("")}

@@ -1,1 +1,47 @@
-{"lede":"Wo die Quellen sich widersprechen, stehen sie hier nebeneinander.","lede_en":"Where the sources contradict one another, they stand side by side here.","pairs":[]}
+{
+ "lede": "Wo die Quellen sich widersprechen, stehen sie hier nebeneinander.",
+ "lede_en": "Where the sources contradict one another, they stand side by side here.",
+ "pairs": [
+  {
+   "id": "kuendigung",
+   "titel": "Wann begannen die Feindseligkeiten?",
+   "titel_en": "When did hostilities begin?",
+   "frage": "Jourdan datiert die Kündigung des Waffenstillstands auf den 21. Mai und den Beginn der Feindseligkeiten auf den 31.; der Erzherzog nennt den 1. Juni als Beginn und spricht an anderer Stelle von der „am 31. Mai erfolgten Aufkündigung“.",
+   "frage_en": "Jourdan dates the denunciation of the armistice to 21 May and the start of hostilities to the 31st; the Archduke gives 1 June as the start and elsewhere speaks of the denunciation “that took place on 31 May”.",
+   "note": "Beide schreiben im Rückblick, der Erzherzog 1814, Jourdan 1818. Der Apparat entscheidet nicht zwischen den Daten. Für die Gefechte selbst ist der Unterschied gering: Kléber stand am 31. Mai bei Düsseldorf, Württemberg hinter der Sieg, und der Angriff begann nach beiden Darstellungen in den ersten Junitagen.",
+   "note_en": "Both write in hindsight, the Archduke in 1814, Jourdan in 1818. The apparatus does not decide between the dates. For the actions themselves the difference is small: Kléber stood at Düsseldorf on 31 May, Württemberg behind the Sieg, and by both accounts the attack began in the first days of June.",
+   "voices": [
+    {
+     "text": "feldzug",
+     "sec": "kuendigung",
+     "n": [
+      1
+     ],
+     "side": "frz",
+     "autor": "Jean-Baptiste Jourdan (1818)",
+     "autor_en": "Jean-Baptiste Jourdan (1818)"
+    },
+    {
+     "text": "feldzug",
+     "sec": "kuendigung",
+     "n": [
+      3
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl (1814)",
+     "autor_en": "Archduke Charles (1814)"
+    },
+    {
+     "text": "feldzug",
+     "sec": "sieg",
+     "n": [
+      9
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl (1814)",
+     "autor_en": "Archduke Charles (1814)"
+    }
+   ]
+  }
+ ]
+}

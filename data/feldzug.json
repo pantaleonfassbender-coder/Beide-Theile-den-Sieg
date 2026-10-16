@@ -1,0 +1,204 @@
+{
+ "titel": "Der Feldzug am Niederrhein und die Territorien, 1795–1796",
+ "titel_en": "The campaign on the Lower Rhine and the territories, 1795–1796",
+ "autor": "Jean-Baptiste Jourdan (1818), Erzherzog Carl (1814), Matth. Dahlhoff (1874), Leopold Bleibtreu (1834)",
+ "autor_en": "Jean-Baptiste Jourdan (1818), Archduke Charles (1814), Matth. Dahlhoff (1874), Leopold Bleibtreu (1834)",
+ "jahr": "1796",
+ "orig_sprache": "de",
+ "pg_label": "",
+ "quelle": "Jourdan, Mémoires pour servir à l'histoire de la campagne de 1796 (Paris 1818), S. 20–26 (Internet Archive india.history.resource.105983); [Erzherzog Carl], Grundsätze der Strategie, erläutert durch die Darstellung des Feldzugs von 1796 in Deutschland, II. Theil (Wien 1814), S. 21, 45–47 (Internet Archive 11282526bsb); Dahlhoff, Geschichte der Grafschaft Sayn (Dillenburg 1874), S. 77 (Internet Archive bub_gb_6p0wAAAAYAAJ); Bleibtreu, Denkwürdigkeiten aus den Kriegsbegebenheiten bei Neuwied von 1792 bis 1797 (Bonn 1834), S. 84 (Bayerische Staatsbibliothek bsb10727801).",
+ "hinweis": "Dieses Modul stellt die beiden Armeen vor den drei Gefechten auf und das Land, über das sie zogen. Zwei Feldherren erklären ihren Plan im Rückblick, Jourdan 1818, der Erzherzog 1814; zwei Ortskundige beschreiben, was das Land war und was ihm geschah. Texte nach den Drucken, an den Seitenbildern gelesen: Schreibung und Zeichensetzung wie gedruckt, ſ als s, Silbentrennungen am Zeilenende aufgelöst. In Jourdans Exemplar verdecken Tintenflecke einige Buchstaben; sie sind in eckigen Klammern ergänzt. Die deutschen Übersetzungen der französischen Texte und alle englischen Übersetzungen sind eigene Arbeitsübersetzungen (CC0).",
+ "hinweis_en": "This module sets out the two armies before the three actions, and the country they crossed. Two commanders explain their plans in hindsight, Jourdan in 1818 and the Archduke in 1814; two men who knew the region describe what the country was and what happened to it. Texts as printed, read against the page images: spelling and punctuation as in the print, long s as s, line-end hyphenation resolved. In Jourdan's copy ink blots cover a few letters; they are supplied in square brackets. The German translations of the French texts and all English translations are my own working translations (CC0).",
+ "sections": [
+  {
+   "id": "kuendigung",
+   "titel": "Die Kündigung",
+   "titel_en": "The denunciation",
+   "zk": "Feldzug",
+   "blurb": "Ende Mai 1796 kündigten die Österreicher den Waffenstillstand am Rhein. Jourdan und der Erzherzog geben verschiedene Daten, und Jourdan erklärt, warum der Gegner hätte angreifen müssen.",
+   "blurb_en": "At the end of May 1796 the Austrians denounced the armistice on the Rhine. Jourdan and the Archduke give different dates, and Jourdan explains why the enemy ought to have attacked.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Jourdan S. 20–21",
+     "titel": "Die Kündigung: 21. Mai",
+     "titel_en": "The denunciation: 21 May",
+     "orig": "Dans cette supposition, soit que les Autrichiens se portassent en force contre l'armée de Rhin et Moselle, ou contre celle de Sambre et Meuse, il était indispensable que celle qui serait le plus faiblement attaquée, marchât au secours de l'autre et livrât bataille. Les Généraux en chef demandèrent donc l'autorisation d'engager une affaire générale, lorsqu'ils en verraient l'occasion favorable.\nLes Autrichiens dénoncèrent, en effet, la rupture de l'armistice, le 21 mai. Les hostilités devaient recommencer le 31. L'ennemi annonçait hautement l'intention de pénétrer en France, par la Moselle et la Sarre.",
+     "en": "In that case, whether the Austrians moved in force against the Army of the Rhine and Moselle or against that of the Sambre and Meuse, it was indispensable that the army less heavily attacked should march to the help of the other and give battle. The commanders-in-chief therefore asked for authority to engage in a general action when they saw a favourable opportunity.\nThe Austrians did indeed denounce the armistice on 21 May. Hostilities were to begin again on the 31st. The enemy loudly announced the intention of invading France by the Moselle and the Saar.",
+     "lang": "fr",
+     "de": "Für diesen Fall, ob nun die Österreicher mit Macht gegen die Rhein-und-Mosel-Armee oder gegen die Sambre-und-Maas-Armee vorgingen, war es unerlässlich, dass die schwächer angegriffene der anderen zu Hilfe kam und eine Schlacht lieferte. Die Oberbefehlshaber baten deshalb um die Erlaubnis, sich auf ein allgemeines Treffen einzulassen, sobald sie die Gelegenheit günstig sähen.\nDie Österreicher kündigten in der Tat am 21. Mai den Waffenstillstand. Die Feindseligkeiten sollten am 31. wieder beginnen. Der Feind verkündete laut die Absicht, über die Mosel und die Saar in Frankreich einzudringen.",
+     "note": "Jean-Baptiste Jourdan, 1796 Oberbefehlshaber der Sambre-und-Maas-Armee, veröffentlichte seine Erinnerungen 1818 und spricht darin von sich in der dritten Person. Die Rhein-und-Mosel-Armee stand unter Moreau am Oberrhein. Zum Datum: Jourdan nennt den 21. Mai als Tag der Kündigung und den 31. Mai als Beginn der Feindseligkeiten; Carl nennt den 1. Juni als Beginn (Feldzug [3]) und spricht später von der „am 31. Mai erfolgten Aufkündigung“ (Feldzug [9]).",
+     "note_en": "Jean-Baptiste Jourdan, commander of the Army of the Sambre and Meuse in 1796, published his memoirs in 1818 and writes of himself in the third person. The Army of the Rhine and Moselle was under Moreau on the Upper Rhine. On the date: Jourdan gives 21 May as the day of the denunciation and 31 May as the start of hostilities; Charles gives 1 June as the start (Campaign [3]) and later speaks of 'the denunciation made on 31 May' (Campaign [9])."
+    },
+    {
+     "n": 2,
+     "pg": "Jourdan S. 21",
+     "titel": "Italien, und der Mangel der Republik",
+     "titel_en": "Italy, and the Republic's want",
+     "orig": "Mais à cette époque, Bonaparte avait envahi le Milanais et dicté la paix à la Cour de Turin. Le Cabinet de Vienne ordonna à Wurmser de détacher 25 mille hommes pour couvrir le Tyrol et sauver Mantoue. On a prétendu que cette circonstance força les Impériaux à renoncer à leur premier projet, et que les généraux reçurent l'ordre de rester sur la défensive. Cependant, malgré le détachement qui venait de passer en Italie, les armées autrichiennes sur le Rhin, étaient encore aussi nombreuses que celles de la République; elles conservaient la supériorité que leur donnait leur immense cavalerie, et se trouvaient pourvues de tous les moyens pour entrer en campagne: il semble que ces avantages comparés à l'état de dénuement des armées républicaines auraient dû engager les généraux ennemis à prendre l'offensive.",
+     "en": "But at that time Bonaparte had invaded the Milanese and dictated peace to the court of Turin. The cabinet in Vienna ordered Wurmser to detach 25,000 men to cover the Tyrol and save Mantua. It has been claimed that this circumstance forced the Imperial army to give up its first plan, and that the generals received orders to remain on the defensive. Yet in spite of the detachment that had just gone to Italy, the Austrian armies on the Rhine were still as numerous as those of the Republic; they kept the superiority their immense cavalry gave them, and were provided with every means of opening the campaign: it seems that these advantages, set against the destitution of the republican armies, ought to have led the enemy generals to take the offensive.",
+     "lang": "fr",
+     "de": "Zu dieser Zeit aber war Bonaparte in das Mailändische eingefallen und hatte dem Hof von Turin den Frieden diktiert. Das Wiener Kabinett befahl Wurmser, 25.000 Mann abzugeben, um Tirol zu decken und Mantua zu retten. Man hat behauptet, dieser Umstand habe die Kaiserlichen gezwungen, ihren ersten Plan aufzugeben, und die Generäle hätten Befehl erhalten, in der Verteidigung zu bleiben. Doch trotz der Abgabe, die eben nach Italien gegangen war, waren die österreichischen Armeen am Rhein noch ebenso zahlreich wie die der Republik; sie behielten die Überlegenheit, die ihnen ihre gewaltige Reiterei gab, und waren mit allen Mitteln versehen, den Feldzug zu eröffnen: Es scheint, dass diese Vorteile, verglichen mit dem Mangel der republikanischen Armeen, die feindlichen Generäle zum Angriff hätten bewegen müssen.",
+     "note": "„Dénuement“ heißt Entblößung, äußerster Mangel: an Geld, Pferden, Schuhwerk und Lebensmitteln. Jourdan stellt seine Armee als arm und den Gegner als überlegen dar; das rechtfertigt im Rückblick seine Vorsicht. Die Reiterei der Kaiserlichen wird in allen Gefechten dieses Apparats eine Rolle spielen.",
+     "note_en": "'Dénuement' means destitution, utter want: of money, horses, footwear and food. Jourdan presents his army as poor and the enemy as superior; in hindsight that justifies his caution. The Imperial cavalry will play a part in every action in this apparatus."
+    },
+    {
+     "n": 3,
+     "pg": "Carl II S. 21",
+     "titel": "Die Kündigung, nach dem Erzherzog",
+     "titel_en": "The denunciation, as the Archduke tells it",
+     "orig": "Die Österreicher kündigten den Waffenstillstand mit der Erklärung auf, dass die Feindseligkeiten ihren Anfang am 1. Juni nehmen würden. In Folge dieses Entschlusses hatten die gegenseitigen Armeen am 30. und 31. Mai ihre Truppen in jenen Stellungen zusammengezogen, von welchen die Operationen beginnen sollten, und zwar nach folgender Eintheilung:",
+     "en": "The Austrians denounced the armistice with the declaration that hostilities would begin on 1 June. In consequence of this decision both armies had on 30 and 31 May drawn their troops together in the positions from which the operations were to begin, in the following order:",
+     "note": "Erzherzog Carl führte 1796 die kaiserliche Armee am Niederrhein; seine „Grundsätze der Strategie“ von 1814 lehren die Kriegskunst am Beispiel dieses Feldzugs. Auf den Satz folgt eine Tabelle der Armeen mit Bataillonen und Schwadronen, die hier nicht abgedruckt ist. Den Beginn der Feindseligkeiten setzt Carl auf den 1. Juni, Jourdan auf den 31. Mai (Feldzug [1]).",
+     "note_en": "Archduke Charles commanded the Imperial army on the Lower Rhine in 1796; his 'Principles of Strategy' of 1814 teach the art of war from the example of this campaign. The sentence is followed by a table of the armies by battalions and squadrons, not printed here. Charles puts the start of hostilities on 1 June, Jourdan on 31 May (Campaign [1])."
+    }
+   ]
+  },
+  {
+   "id": "plan",
+   "titel": "Jourdans Plan",
+   "titel_en": "Jourdan's plan",
+   "zk": "Feldzug",
+   "blurb": "Wo die Armeen am 31. Mai standen, warum Jourdan den Krieg auf das rechte Rheinufer tragen wollte, und wie Kléber von Düsseldorf aus die Sieg überschreiten sollte.",
+   "blurb_en": "Where the armies stood on 31 May, why Jourdan wanted to carry the war to the right bank of the Rhine, and how Kléber was to cross the Sieg from Düsseldorf.",
+   "units": [
+    {
+     "n": 4,
+     "pg": "Jourdan S. 22–23",
+     "titel": "Wo die Armeen am 31. Mai standen",
+     "titel_en": "Where the armies stood on 31 May",
+     "orig": "Quoiqu'il en soit, le 31 mai, jour où devaient commencer les hostilités, les Impériaux tenaient encore une position offensive, et les [F]rançais une position défensive.\nKleber, ayant sous ses ordres [le]s div[i]sions Lefebvre et Collaud, était à Duss[eld]orf; la réserve d'infanterie, commandée par Bo[nn]ard, à Cologne et Bonn; la division Grenier, à Coblentz; celles des généraux Championnet, Bernadotte, Poncet et la réserve de cavalerie, étaient réunies dans le Hunds-Ruck; la division de Marceau, à Birkenfeld; le général en chef avait son quartier-général à Kirchberg.\nLe gros de l'armée de l'Archiduc était à Baumholder et sur la Nahe; son aîle droite, aux ordres du prince de Wurtemberg, sur la rive droite du Rhin, entre la Lahn et la Sieg.",
+     "en": "However that may be, on 31 May, the day on which hostilities were to begin, the Imperial army still held an offensive position and the French a defensive one.\nKléber, with the divisions of Lefebvre and Collaud under his orders, was at Düsseldorf; the infantry reserve, commanded by Bonnard, at Cologne and Bonn; Grenier's division at Koblenz; those of Generals Championnet, Bernadotte and Poncet and the cavalry reserve were assembled in the Hunsrück; Marceau's division at Birkenfeld; the commander-in-chief had his headquarters at Kirchberg.\nThe main body of the Archduke's army was at Baumholder and on the Nahe; its right wing, under the orders of the Prince of Württemberg, on the right bank of the Rhine, between the Lahn and the Sieg.",
+     "lang": "fr",
+     "de": "Wie dem auch sei: Am 31. Mai, dem Tag, an dem die Feindseligkeiten beginnen sollten, hielten die Kaiserlichen noch eine Angriffsstellung, die Franzosen eine Verteidigungsstellung.\nKléber, mit den Divisionen Lefebvre und Collaud unter seinem Befehl, stand bei Düsseldorf; die Infanteriereserve unter Bonnard bei Köln und Bonn; die Division Grenier bei Koblenz; die der Generäle Championnet, Bernadotte und Poncet und die Reservekavallerie waren im Hunsrück vereinigt; die Division Marceau bei Birkenfeld; der Oberbefehlshaber hatte sein Hauptquartier in Kirchberg.\nDas Gros der Armee des Erzherzogs stand bei Baumholder und an der Nahe; ihr rechter Flügel unter dem Befehl des Prinzen von Württemberg auf dem rechten Rheinufer, zwischen Lahn und Sieg.",
+     "note": "Hier treten die Namen auf, die in den drei Gefechten wiederkehren: Kléber, Lefebvre und Collaud am 4. und 19. Juni, Marceau im September, auf der anderen Seite der Prinz Ferdinand von Württemberg. Die Armee lag in zwei Teilen: die linke Flügel um Düsseldorf auf dem rechten Rheinufer, das Gros im Hunsrück auf dem linken. In diesem Exemplar verdeckt ein Tintenfleck einige Buchstaben; sie sind in eckigen Klammern ergänzt.",
+     "note_en": "Here appear the names that recur in the three actions: Kléber, Lefebvre and Collaud on 4 and 19 June, Marceau in September, and on the other side Prince Ferdinand of Württemberg. The army lay in two parts: the left wing round Düsseldorf on the right bank of the Rhine, the main body in the Hunsrück on the left. In this copy an ink blot covers a few letters; they are supplied in square brackets."
+    },
+    {
+     "n": 5,
+     "pg": "Jourdan S. 24–25",
+     "titel": "Der Hunsrück, und der Befehl an Kléber",
+     "titel_en": "The Hunsrück, and the order to Kléber",
+     "orig": "L'armée de Sambre et Meuse était dans une position précaire: menacée sur sa droite par les principales forces de l'Archiduc, elle courait le danger d'être rejetée derrière la Moselle, et séparée de celle de Rhin et Moselle. Le prince Charles et Wurmser avaient, au contraire, leurs communications bien assurées avec la rive droite du Rhin, par les places de Mayence et de Manheim; réun[is] pour ainsi dire, ils avaient la faci[lité] de com[bi]ner leurs mouvemens, et de [marche]r en [f]orce contre l'une des deux armées français[es, t]andis que Moreau et Jourdan, séparés par une grande distance, ne pouvaient qu'avec peine concerter leurs opérations. Le Hunds-Ruck, pays naturellement pauvre, et ruiné par le long séjour qu'y avaient fait les armées, n'offrait aucune ressource. D'ailleurs les communications y étaient alors si difficiles, qu'il devenait impossible d'y faire arriver les subsistances nécessaires à l'armée. Dans cet état de choses, il n'était pas probable que Moreau forçât le passage du Rhin vers sa droite, tant que sa gauche et son centre seraient menacés par l'armée de Wurmser. Ces considérations déterminèrent le Général en chef de l'armée de Sambre et Meuse à faire tous ses efforts pour contraindre l'ennemi à abandonner la rive gauche du Rhin, et porter le théâtre de la guerre sur la rive droite. Il ordonna à Kleber de marcher avec l'aile gauche par Dusseldorf, sur la Sieg et la Lahn. (Voyez Pièce justificative, n° III.)",
+     "en": "The Army of the Sambre and Meuse was in a precarious position: threatened on its right by the Archduke's main forces, it ran the risk of being thrown back behind the Moselle and separated from the Army of the Rhine and Moselle. Prince Charles and Wurmser, on the contrary, had their communications with the right bank of the Rhine well secured by the fortresses of Mainz and Mannheim; united, so to speak, they could easily combine their movements and march in force against one of the two French armies, while Moreau and Jourdan, separated by a great distance, could concert their operations only with difficulty. The Hunsrück, a country naturally poor and ruined by the long stay the armies had made there, offered no resources at all. Communications there were moreover so difficult at the time that it became impossible to bring in the subsistence the army needed. In this state of affairs it was not probable that Moreau would force the passage of the Rhine on his right as long as his left and his centre were threatened by Wurmser's army. These considerations decided the commander-in-chief of the Army of the Sambre and Meuse to make every effort to compel the enemy to abandon the left bank of the Rhine and to carry the theatre of war to the right bank. He ordered Kléber to march with the left wing by Düsseldorf on the Sieg and the Lahn. (See supporting document no. III.)",
+     "lang": "fr",
+     "de": "Die Sambre-und-Maas-Armee war in einer unsicheren Lage: Auf ihrer Rechten von den Hauptkräften des Erzherzogs bedroht, lief sie Gefahr, hinter die Mosel zurückgeworfen und von der Rhein-und-Mosel-Armee getrennt zu werden. Prinz Carl und Wurmser hatten dagegen ihre Verbindungen mit dem rechten Rheinufer durch die Festungen Mainz und Mannheim wohl gesichert; gleichsam vereinigt, konnten sie ihre Bewegungen leicht verabreden und mit Macht gegen eine der beiden französischen Armeen marschieren, während Moreau und Jourdan, durch eine große Entfernung getrennt, ihre Unternehmungen nur mit Mühe abstimmen konnten. Der Hunsrück, ein von Natur armes und durch den langen Aufenthalt der Armeen ruiniertes Land, bot keinerlei Hilfsmittel. Zudem waren die Wege dort damals so schwierig, dass es unmöglich wurde, die nötigen Lebensmittel für die Armee heranzuschaffen. Unter diesen Umständen war nicht zu erwarten, dass Moreau den Rheinübergang zu seiner Rechten erzwingen würde, solange seine Linke und seine Mitte von Wurmsers Armee bedroht waren. Diese Überlegungen bestimmten den Oberbefehlshaber der Sambre-und-Maas-Armee, alles daranzusetzen, den Feind zum Verlassen des linken Rheinufers zu zwingen und den Kriegsschauplatz auf das rechte zu tragen. Er befahl Kléber, mit dem linken Flügel über Düsseldorf an die Sieg und die Lahn zu marschieren. (Siehe Beleg Nr. III.)",
+     "note": "Der Kern des Plans: Kléber soll auf dem rechten Rheinufer so drohen, dass der Erzherzog Truppen vom linken Ufer abziehen muss. Dass dabei die Dörfer zwischen Sieg und Lahn zum Kriegsschauplatz wurden, sagt der Satz nebenbei: „porter le théâtre de la guerre sur la rive droite“. Der Hunsrück, „ruiniert durch den langen Aufenthalt der Armeen“, zeigt, was einem Land geschah, in dem Armeen lange standen. Tintenflecke verdecken einige Buchstaben; sie sind in eckigen Klammern ergänzt.",
+     "note_en": "The heart of the plan: Kléber is to threaten so hard on the right bank that the Archduke must draw troops from the left bank. That the villages between the Sieg and the Lahn thereby became the theatre of war the sentence says in passing: 'to carry the theatre of war to the right bank'. The Hunsrück, 'ruined by the long stay the armies had made there', shows what happened to a country where armies stayed long. Ink blots cover a few letters; they are supplied in square brackets."
+    },
+    {
+     "n": 6,
+     "pg": "Jourdan S. 25–26",
+     "titel": "Was der Plan riskierte",
+     "titel_en": "What the plan risked",
+     "orig": "Cette manœuvre n'était pas san[s i]nconvéniens; l'Archiduc pouvait se borne[r] à opposer à Kleber un corps suffisant pou[r ra]lentir ses opérations, et marcher, avec le [gro]s de son armée, contre Jourdan dans le Hu[n]ds-Ruck. Mais, dans ce cas, le Général en [chef] se serait reployé sur les camps retran[chés] de Trêves, de Traerbach et de la Chartreuse, où il aurait arrêté son adversaire, pendant que Kleber s'avançant sur le Mein, se serait emparé des magasins de l'ennemi. Si, au contraire, l'Archiduc s'était porté sur la rive droite du Rhin, ainsi que Jourdan le désirait, il devenait probable que l'aile gauche de l'armée française se serait reployée sur Dusseldorf; mais cet inconvénient ne balançait pas l'avantage que son premier mouvement aurait produit, et encore moins celui de donner à Moreau la facilité d'effectuer son passage dans le Haut-Rhin.",
+     "en": "This manoeuvre was not without drawbacks: the Archduke could confine himself to opposing Kléber with a corps strong enough to slow down his operations, and march with the main body of his army against Jourdan in the Hunsrück. But in that case the commander-in-chief would have fallen back on the entrenched camps of Trier, Traben-Trarbach and the Chartreuse, where he would have stopped his adversary, while Kléber, advancing on the Main, would have seized the enemy's magazines. If, on the contrary, the Archduke moved to the right bank of the Rhine, as Jourdan wished, it became probable that the left wing of the French army would fall back on Düsseldorf; but this drawback did not outweigh the advantage its first movement would have produced, and still less that of making it easy for Moreau to carry out his crossing on the Upper Rhine.",
+     "lang": "fr",
+     "de": "Dieses Manöver war nicht ohne Nachteile: Der Erzherzog konnte sich darauf beschränken, Kléber ein Korps entgegenzustellen, das stark genug war, seine Unternehmungen zu verlangsamen, und mit dem Gros seiner Armee gegen Jourdan in den Hunsrück marschieren. In diesem Fall aber hätte sich der Oberbefehlshaber auf die verschanzten Lager von Trier, Trarbach und der Kartause zurückgezogen und dort seinen Gegner aufgehalten, während Kléber, gegen den Main vorrückend, sich der Magazine des Feindes bemächtigt hätte. Ginge der Erzherzog dagegen auf das rechte Rheinufer, wie Jourdan es wünschte, so würde sich der linke Flügel der französischen Armee wahrscheinlich auf Düsseldorf zurückziehen müssen; aber dieser Nachteil wog den Vorteil nicht auf, den seine erste Bewegung gebracht hätte, und noch weniger den, Moreau den Übergang am Oberrhein zu erleichtern.",
+     "note": "So kam es: Der Erzherzog ging auf das rechte Ufer, und Kléber wich nach dem 19. Juni auf Düsseldorf zurück. Jourdan schreibt 1818 mit dem Wissen um den Ausgang; dass sein Plan diesen Rückzug schon „wahrscheinlich“ nannte, ist auch eine Verteidigung. Die „Chartreuse“ ist die Kartause bei Koblenz auf dem linken Rheinufer.",
+     "note_en": "So it happened: the Archduke went to the right bank, and after 19 June Kléber fell back on Düsseldorf. Jourdan writes in 1818 knowing the outcome; that his plan had already called this retreat 'probable' is also a defence. The 'Chartreuse' is the Carthusian monastery near Koblenz on the left bank of the Rhine."
+    },
+    {
+     "n": 7,
+     "pg": "Carl II S. 45",
+     "titel": "Klébers Auftrag, nach dem Erzherzog",
+     "titel_en": "Kléber's orders, as the Archduke tells it",
+     "orig": "Jourdan hatte den General Kleber beordert, mit den bei Düsseldorf vereinigten Divisionen Lefevre und Collaud, zusammen 24 Bats. und 20 Escad., die Feindseligkeiten durch einen Angriff auf die hinter der Sieg stehenden Österreicher zu eröffnen. Bei einem glücklichen Erfolg wollte der Obergeneral selbst mit der Armee über den Rhein setzen und sich mit ihm vereinigen.\nKleber rückte mit seinen Truppen am 31. Mai in ein Lager zwischen Porz und Benzberg, besetzte die Agger und die Sieg längs der Waffenstillstandslinie, und traf alle Anstalten, den erhaltenen Befehl am 1. Juni zu vollziehen.",
+     "en": "Jourdan had ordered General Kléber to open hostilities with the divisions of Lefebvre and Collaud, assembled at Düsseldorf, together 24 battalions and 20 squadrons, by an attack on the Austrians standing behind the Sieg. If it succeeded, the commander-in-chief meant to cross the Rhine himself with the army and join him.\nOn 31 May Kléber moved his troops into a camp between Porz and Bensberg, occupied the Agger and the Sieg along the armistice line, and made every arrangement to carry out the order he had received on 1 June.",
+     "note": "24 Bataillone und 20 Schwadronen: die erste Zahl für Klébers Truppen in diesem Apparat. Die Agger mündet bei Siegburg in die Sieg; die „Waffenstillstandslinie“ an der Sieg trennte seit dem Winter die Heere.",
+     "note_en": "24 battalions and 20 squadrons: the first figure for Kléber's troops in this apparatus. The Agger flows into the Sieg at Siegburg; since the winter the 'armistice line' along the Sieg had separated the armies."
+    },
+    {
+     "n": 8,
+     "pg": "Carl II S. 45–46",
+     "titel": "Die geplanten Übergänge",
+     "titel_en": "The planned crossings",
+     "orig": "Die Division des Generals Lefevre sollte den Übergang über die Agger bei Lohmar und Lorrath forciren, Siegburg wegnehmen, und sodann auf dem rechten Ufer der Sieg bis Happenschos marschiren. Der französische General glaubte, dass er den Feind in der Stellung bei Ukerath finden würde, und wollte ihn durch einen Übergang dieser Division in seiner rechten Flanke daraus vertreiben. Die Division Collaud sollte bei Meindorf und Menden über die Sieg gehen und längs dem linken Ufer des Flusses heraufziehen, um ihre Stellung bei Busdorf zu nehmen.",
+     "en": "Lefebvre's division was to force the crossing of the Agger at Lohmar and Lohrath, take Siegburg and then march up the right bank of the Sieg as far as Happenschoss. The French general believed that he would find the enemy in the position at Uckerath and meant to drive him out of it by a crossing of this division in his right flank. Collaud's division was to cross the Sieg at Meindorf and Menden and move up along the left bank of the river to take up its position at Buisdorf.",
+     "note": "Uckerath, Kircheib und Altenkirchen liegen an der hohen Straße von Siegburg nach Osten, der heutigen B 8; Klébers Plan rechnete damit, den Gegner dort zu finden, und wollte ihn von der Sieg her umgehen. Die Ortsnamen stehen wie gedruckt: „Lorrath“ ist Lohrath, „Happenschos“ Happenschoss, „Busdorf“ Buisdorf.",
+     "note_en": "Uckerath, Kircheib and Altenkirchen lie on the high road east from Siegburg, today's B 8; Kléber's plan expected to find the enemy there and meant to turn him from the Sieg. Place names stand as printed: 'Lorrath' is Lohrath, 'Happenschos' Happenschoss, 'Busdorf' Buisdorf."
+    }
+   ]
+  },
+  {
+   "id": "sieg",
+   "titel": "Die Kaiserlichen an der Sieg",
+   "titel_en": "The Imperial army on the Sieg",
+   "zk": "Feldzug",
+   "blurb": "Der Prinz von Württemberg zog sein Korps zwischen Altenkirchen, Hachenburg und Dierdorf zusammen und ließ an der Sieg nur eine Vorhut, die ausweichen sollte.",
+   "blurb_en": "The Prince of Württemberg drew his corps together between Altenkirchen, Hachenburg and Dierdorf and left only an advance guard on the Sieg, with orders to give way.",
+   "units": [
+    {
+     "n": 9,
+     "pg": "Carl II S. 46",
+     "titel": "Württembergs Zentralstellung",
+     "titel_en": "Württemberg's central position",
+     "orig": "Indessen hatte der Prinz von Würtemberg, nach der am 31. Mai erfolgten Aufkündigung des Waffenstillstandes, das Gros seines Corps zwischen Altenkirchen, Hachenburg und Dierdorf zusammengezogen, und aus dieser Centralposition die Unternehmungen seines Gegners zu vereiteln beschlossen.",
+     "en": "Meanwhile the Prince of Württemberg, after the denunciation of the armistice made on 31 May, had drawn the main body of his corps together between Altenkirchen, Hachenburg and Dierdorf, and had decided to frustrate his opponent's undertakings from this central position.",
+     "note": "Prinz Ferdinand von Württemberg führte den rechten Flügel der kaiserlichen Armee. Altenkirchen, Hachenburg und Dierdorf bilden ein Dreieck im Westerwald, eine Tagesmarsch-Weite hinter der Sieg. Zum Datum der Kündigung siehe Feldzug [1].",
+     "note_en": "Prince Ferdinand of Württemberg led the right wing of the Imperial army. Altenkirchen, Hachenburg and Dierdorf form a triangle in the Westerwald, a day's march behind the Sieg. On the date of the denunciation see Campaign [1]."
+    },
+    {
+     "n": 10,
+     "pg": "Carl II S. 46–47",
+     "titel": "Die Vorhut an der Sieg",
+     "titel_en": "The advance guard on the Sieg",
+     "orig": "Die ausgedehnte Cordonslinie an der Sieg wurde aufgelöst, und die Avantgarde, die aus 4 Bats. 14 Escad. bestand, in zwei Abtheilungen aufgestellt: nämlich der General Kienmaier mit 3 Bats. 10 Escad. gegen den Einfluss der Sieg bei Nieder-Pleiss, und der Oberste Gottesheim mit 1 Bat. 4 Escad. gegen die hohe Strasse bei Daden. Ersterer bekam den Befehl, einer überlegenen Macht zu weichen, und sich auf die Stellung von Altenkirchen zu repliiren; letzterer aber, wenn der Feind gegen den Einfluss der Sieg vorrücken sollte, diesen Fluss bei Kirchen, die Agger aber über der Traventer Höhe bei Overath zu passiren, und mit seinem kleinen Detachement in der grossen Entfernung von Daden gegen Benzberg den nämlichen Feind in der Flanke zu bedrohen, mit welchem sich General Kienmaier nicht engagiren sollte. Im Fall jedoch der Feind auf der hohen Strasse gegen Siegen vorrücken würde, hatte der Oberste Gottesheim den Auftrag, sich in das Gebirge der kalten Eiche zu werfen, und ein Detachement nach Lützel zu schicken, welches auf der Strasse gegen Siegen und Olpe streifen sollte.",
+     "en": "The extended cordon line on the Sieg was dissolved, and the advance guard, which consisted of 4 battalions and 14 squadrons, was posted in two detachments: General Kienmaier with 3 battalions and 10 squadrons towards the mouth of the Sieg at Niederpleis, and Colonel Gottesheim with 1 battalion and 4 squadrons towards the high road at Daaden. The former was ordered to give way to a superior force and fall back on the position of Altenkirchen; the latter, should the enemy advance towards the mouth of the Sieg, was to cross that river at Kirchen and the Agger above the Travent heights at Overath, and with his small detachment, at the great distance from Daaden towards Bensberg, to threaten in the flank the same enemy with whom General Kienmaier was not to engage. If, however, the enemy should advance on the high road towards Siegen, Colonel Gottesheim was ordered to throw himself into the hills of the Kalte Eiche and send a detachment to Lützel to patrol the road towards Siegen and Olpe.",
+     "note": "Ein „Cordon“ war eine lange Postenkette; sie aufzulösen hieß, die Truppen zu sammeln, statt jeden Übergang zu bewachen. Kienmaiers Befehl, „einer überlegenen Macht zu weichen“ und auf Altenkirchen zurückzugehen, verlegte die Entscheidung von der Sieg nach Altenkirchen.",
+     "note_en": "A 'cordon' was a long chain of posts; to dissolve it meant gathering the troops instead of guarding every crossing. Kienmaier's order 'to give way to a superior force' and fall back on Altenkirchen moved the decision from the Sieg to Altenkirchen."
+    },
+    {
+     "n": 11,
+     "pg": "Carl II S. 47",
+     "titel": "Der linke Flügel bei Neuwied, das Hauptcorps bei Altenkirchen",
+     "titel_en": "The left flank at Neuwied, the main corps at Altenkirchen",
+     "orig": "General Finke wurde mit 5 Bats. 10 Escad. zur Versicherung des linken Flügels bei Neuwied und zur Besetzung des Rheins bei Lorich aufgestellt; im Erforderungsfall war ein Theil dieser Truppen bestimmt, sich über Dierdorf an das Hauptcorps anzuschliessen, oder über Neustadt den vorrückenden Feind in seiner rechten Flanke zu bedrohen. Nach Abschlag aller Detachements bestand das Hauptcorps bei Altenkirchen und Crobach aus 10 Bats. 14 Esc.",
+     "en": "General Finke was posted with 5 battalions and 10 squadrons to secure the left wing at Neuwied and to hold the Rhine at Lorich; if required, part of these troops was to join the main corps by way of Dierdorf, or to threaten the advancing enemy in his right flank by way of Neustadt. After all detachments had been deducted, the main corps at Altenkirchen and Kroppach consisted of 10 battalions and 14 squadrons.",
+     "note": "10 Bataillone und 14 Schwadronen bei Altenkirchen und Kroppach, gegen 24 Bataillone und 20 Schwadronen Klébers (Feldzug [7]): So rechnet der Erzherzog. Mannschaftszahlen nennt er hier nicht; das Modul zum 4. Juni stellt die Angaben der Quellen nebeneinander. Welcher Ort mit „Lorich“ gemeint ist, bleibt offen.",
+     "note_en": "10 battalions and 14 squadrons at Altenkirchen and Kroppach, against Kléber's 24 battalions and 20 squadrons (Campaign [7]): that is the Archduke's reckoning. He gives no numbers of men here; the module on 4 June sets the figures of the sources side by side. Which place 'Lorich' means remains open."
+    }
+   ]
+  },
+  {
+   "id": "land",
+   "titel": "Wem das Land gehörte",
+   "titel_en": "Whose country it was",
+   "zk": "Feldzug",
+   "blurb": "Altenkirchen war ansbachisch und seit 1793 preußisch verwaltet, und darum neutral. Was das galt, zeigen ein Pfarrer und ein Chronist aus der Gegend.",
+   "blurb_en": "Altenkirchen belonged to Ansbach and had been under Prussian administration since 1793, and was therefore neutral. What that was worth a pastor and a chronicler from the region show.",
+   "units": [
+    {
+     "n": 12,
+     "pg": "Dahlhoff S. 77",
+     "titel": "Wem Altenkirchen gehörte",
+     "titel_en": "To whom Altenkirchen belonged",
+     "orig": "Ehemals war dieses Schloß, die Stadt und das Amt, unter welchen letzteres die drei Kirchspiele: Altenkirchen, Birnbach und Mehren in sich begriff, Eigenthum der Grafen von Neuenar, von welchen es 1298 an das Grafenhaus Sayn kam. 1642 occupirte dieses Amt der Graf Christian von Wittgenstein, mußte es aber 1662 wieder an Sayn abtreten, und es fiel dem Herzogshause Sachsen-Weimar-Eisenach anheim. 1741 ererbten es die Markgrafen von Brandenburg-Onolzbach, deren letzter Regent es 1793 unter preußische Verwaltung stellte, bis es 1802 an Nassau-Usingen und 1814 an Preußen fiel.",
+     "en": "Formerly this castle, the town and the district, the last of which comprised the three parishes of Altenkirchen, Birnbach and Mehren, were the property of the Counts of Neuenahr, from whom they passed in 1298 to the house of the Counts of Sayn. In 1642 Count Christian of Wittgenstein occupied this district, but had to cede it again to Sayn in 1662, and it fell to the ducal house of Saxe-Weimar-Eisenach. In 1741 the Margraves of Brandenburg-Onolzbach inherited it; their last ruler placed it under Prussian administration in 1793, until it fell to Nassau-Usingen in 1802 and to Prussia in 1814.",
+     "note": "Brandenburg-Onolzbach ist Ansbach. 1796 war das Amt Altenkirchen also preußisch verwaltetes Land zwischen den Ländern anderer Herren. Dahlhoffs Buch von 1874 ist eine Geschichte der Grafschaft Sayn „besonders in kirchlicher Beziehung“, nach Pfarreien geordnet; dieser Absatz eröffnet die Pfarrei Altenkirchen.",
+     "note_en": "Brandenburg-Onolzbach is Ansbach. In 1796 the district of Altenkirchen was thus Prussian-administered land between the lands of other lords. Dahlhoff's book of 1874 is a history of the county of Sayn 'especially in its church relations', arranged by parishes; this paragraph opens the parish of Altenkirchen."
+    },
+    {
+     "n": 13,
+     "pg": "Dahlhoff S. 77",
+     "titel": "1796, in der Erinnerung der Pfarrei",
+     "titel_en": "1796, as the parish remembered it",
+     "orig": "Im Jahre 1796 litten die Bewohner sehr durch die französischen und österreichischen Truppen und Erzherzog Carl von Oesterreich bestand hier in der Stadt ein siegreiches Treffen gegen den französischen General Jourdan, bei welchem das Kirchengebäude sehr beschädigt wurde.",
+     "en": "In the year 1796 the inhabitants suffered greatly from the French and Austrian troops, and Archduke Charles of Austria won a victorious action here in the town against the French general Jourdan, in which the church building was much damaged.",
+     "note": "Ein Satz, achtundsiebzig Jahre danach: Die Bewohner litten durch beide Armeen. Welches Gefecht Dahlhoff meint, sagt er nicht; bei Altenkirchen kommandierten auf französischer Seite im Juni Kléber und im September Marceau, nicht Jourdan selbst, und am 4. Juni siegten die Franzosen. Der Satz zeigt, wie sich die Erinnerung an den Erzherzog und den Oberbefehlshaber hielt, nicht an die Männer, die hier kämpften.",
+     "note_en": "One sentence, seventy-eight years later: the inhabitants suffered from both armies. Which action Dahlhoff means he does not say; at Altenkirchen the French were commanded by Kléber in June and by Marceau in September, not by Jourdan himself, and on 4 June the French won. The sentence shows how memory held on to the Archduke and the commander-in-chief, not to the men who fought here."
+    },
+    {
+     "n": 14,
+     "pg": "Bleibtreu S. 84",
+     "titel": "„Als preußisches Gebiet neutral“",
+     "titel_en": "'Neutral as Prussian territory'",
+     "orig": "Den 20. bezogen Rothmäntler, Servier und Waraschiner die Vorposten am Rheine, die östreichische Armee aber ein Lager zwischen der Wied und Sayn, weßhalb einige Roggenfluren abgeschnitten werden mußten. Eine in Bendorf*) zurückgebliebene franz. Sauvegarde ward von den dießseitigen Vorposten nach der Insel gebracht.\n*) Bendorf, so wie überhaupt die Grafschaft Altenkirchen, war als preußisches Gebiet neutral.",
+     "en": "On the 20th the Red-cloaks, Serbs and Varaždin men took up the outposts on the Rhine, and the Austrian army a camp between the Wied and the Sayn, for which some rye fields had to be cut down. A French safeguard left behind in Bendorf* was brought to the island by the outposts on this side.\n* Bendorf, like the county of Altenkirchen as a whole, was neutral as Prussian territory.",
+     "note": "Bleibtreus „Denkwürdigkeiten“ von 1834 erzählen die Kriegsjahre bei Neuwied Tag für Tag. Der Eintrag gehört zum 20. Juni 1796, dem Tag nach dem Gefecht bei Kircheib; zwei Tage zuvor hatten die Franzosen Neuwied geräumt (S. 83). Rothmäntler, Servier und Waraschiner waren leichte Truppen aus den Grenzgebieten der Habsburgermonarchie. Eine „Sauvegarde“ war eine Schutzwache, die eine Armee einem Ort oder Haus gegen Plünderung stellte. Die Anmerkung zeigt, was die Neutralität galt: Das Lager einer Armee kostete das Korn auf den Feldern, und eine zurückgebliebene Schutzwache wurde von der anderen Seite abgeführt.",
+     "note_en": "Bleibtreu's 'Memorabilia' of 1834 tell the war years at Neuwied day by day. The entry belongs to 20 June 1796, the day after the action at Kircheib; two days earlier the French had left Neuwied (p. 83). The Red-cloaks, Serbs and Varaždin men were light troops from the border regions of the Habsburg monarchy. A 'safeguard' was a guard an army posted at a place or house to protect it from plunder. The note shows what neutrality was worth: an army's camp cost the corn in the fields, and a safeguard left behind was led away by the other side."
+    }
+   ]
+  }
+ ]
+}
