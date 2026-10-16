@@ -54,18 +54,56 @@
    "quelle": "Angeli I (1896) S. 446–449; Carl III (1814) S. 185–187; Jourdan (1818) S. 202–207; Soult I (1854) S. 320–321; Souhait, Journal, bei Lavallée (1797) S. 34–36, 48–50; National-Zeitung (1796) Sp. 951, 1088; Stramberg (1851) S. 307–310",
    "datei": "marceau",
    "zk": "Marceau"
-  }
- ],
- "planned": [
+  },
   {
    "id": "erinnerung",
    "side": "rezeption",
    "kurz": "Erinnerung",
    "kurz_en": "Memory",
-   "warum": "Wie die Gegend den 19. Juni als Sieg erinnerte, die Ehren für Marceau, sein Grab und was daraus wurde.",
-   "warum_en": "How the region remembered 19 June as a victory, the honours for Marceau, his grave and what became of it.",
-   "quelle": "Bleibtreu (1834); Johnson (1896); Ortsdarstellungen des 19. Jahrhunderts"
+   "warum": "Was nach 1796 blieb: Marceaus Grab auf dem Petersberg, seine Verbrennung zum Jahrestag, vier Inschriften, Byrons Strophen von 1816, der Abbruch für die preußische Festung, ein Denkstein im Höchstenbacher Wald, und ein Gefecht mit drei Namen.",
+   "warum_en": "What remained after 1796: Marceau's grave on the Petersberg, his cremation on the anniversary, four inscriptions, Byron's stanzas of 1816, the demolition for the Prussian fortress, a memorial stone in the Höchstenbach wood, and an action with three names.",
+   "quelle": "Lavallée (1797) S. 51; Stramberg (1851) S. 310–316; Byron, Childe Harold III (1816), Str. 56–57 mit Anm., nach der Ausgabe 1862 S. 100, 402; Bleibtreu (1834) S. 88–89; Lautz, hg. Otto (1889/90) S. 80",
+   "datei": "erinnerung",
+   "zk": "Erinnerung"
   }
  ],
- "missing": []
+ "planned": [],
+ "missing": [
+  {
+   "id": "johnson",
+   "side": "rezeption",
+   "kurz": "T. G. Johnson, François-Séverin Marceau (London 1896)",
+   "kurz_en": "T. G. Johnson, François-Séverin Marceau (London 1896)",
+   "warum": "Eine englische Biographie mit genauen Uhrzeiten für den 19. September. Nicht aufgenommen, weil die Lebensdaten des Verfassers und damit die Gemeinfreiheit nicht geklärt sind; seine Angaben stehen auch bei Jourdan, Lavallée und Souhait.",
+   "warum_en": "An English biography with exact times for 19 September. Not included because the author's dates, and so the public-domain status, are unclear; its information is also in Jourdan, Lavallée and Souhait.",
+   "quelle": "Internet Archive cu31924024304507"
+  },
+  {
+   "id": "kirch",
+   "side": "rezeption",
+   "kurz": "Kirch, Die Revolutionskriege am Rhein und im Westerwald (Altenkirchen 1931)",
+   "kurz_en": "Kirch, The Revolutionary Wars on the Rhine and in the Westerwald (Altenkirchen 1931)",
+   "warum": "Eine Ortsdarstellung aus Altenkirchen mit Angaben zu Kirchenschaden, Amtshaus und Denkmälern. Nicht aufgenommen, weil die Gemeinfreiheit ungeklärt ist; nur als Wegweiser für die Sichtung benutzt.",
+   "warum_en": "A local account from Altenkirchen with details on church damage, the official house and monuments. Not included because its public-domain status is unclear; used only as a guide during the survey.",
+   "quelle": "Internet Archive Revolutionskriege"
+  },
+  {
+   "id": "phipps",
+   "side": "rezeption",
+   "kurz": "Phipps, The Armies of the First French Republic II (Oxford 1929)",
+   "kurz_en": "Phipps, The Armies of the First French Republic II (Oxford 1929)",
+   "warum": "Eine neuere Gesamtdarstellung. Nicht aufgenommen, weil der Apparat Quellen des 18. und 19. Jahrhunderts abdruckt und neuere Literatur höchstens nennt.",
+   "warum_en": "A more recent general account. Not included because the apparatus prints sources of the 18th and 19th centuries and at most names more recent literature.",
+   "quelle": "Internet Archive armiesoffirstfre0000phip"
+  },
+  {
+   "id": "ortschroniken",
+   "side": "land",
+   "kurz": "Ortschroniken der Dörfer",
+   "kurz_en": "Village chronicles",
+   "warum": "Für Kircheib, Weyerbusch, Asbach, Buchholz, Höchstenbach und Hachenburg ist keine gemeinfreie gedruckte Pfarr- oder Ortschronik gefunden. Archivhinweise: Sterberegister Uckerath 1762–1810 (nach Tille 1899), Kirchenbücher Höchstenbach.",
+   "warum_en": "No public-domain printed parish or village chronicle has been found for Kircheib, Weyerbusch, Asbach, Buchholz, Höchstenbach and Hachenburg. Archival leads: Uckerath register of deaths 1762–1810 (after Tille 1899), Höchstenbach parish registers.",
+   "quelle": "Sichtung Oktober 2026"
+  }
+ ]
 }

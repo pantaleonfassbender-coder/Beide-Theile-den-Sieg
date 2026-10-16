@@ -276,6 +276,44 @@
    "cite": "#/text/land/lasten/6",
    "citeLabel": "National-Zeitung 1796, Sp. 1015",
    "citeLabel_en": "National-Zeitung 1796, col. 1015"
+  },
+  {
+   "d": "24. September 1797",
+   "d_en": "24 September 1797",
+   "side": "frz",
+   "titel": "Der Scheiterhaufen auf dem Petersberg",
+   "titel_en": "The pyre on the Petersberg",
+   "text": "Zum ersten Jahrestag wird Marceaus Leichnam auf dem Petersberg verbrannt, die Asche in einer kupfernen Urne im Grabmal nach Klébers Entwurf beigesetzt. Das Fort heißt nun Fort Marceau.",
+   "text_en": "On the first anniversary Marceau's body is burned on the Petersberg and the ashes placed in a copper urn in the tomb designed by Kléber. The fort is now called Fort Marceau.",
+   "cite": "#/text/erinnerung/grab/2",
+   "citeLabel": "Lavallée S. 51; Stramberg S. 310–311",
+   "citeLabel_en": "Lavallée p. 51; Stramberg pp. 310–311",
+   "plate": "petersberg"
+  },
+  {
+   "d": "1816",
+   "d_en": "1816",
+   "side": "rezeption",
+   "titel": "„Honour to Marceau!“",
+   "titel_en": "“Honour to Marceau!”",
+   "text": "Byron besingt im dritten Gesang von Childe Harold die Pyramide bei Koblenz: „His mourners were two hosts, his friends and foes.“",
+   "text_en": "In the third canto of Childe Harold Byron celebrates the pyramid near Koblenz: “His mourners were two hosts, his friends and foes.”",
+   "cite": "#/text/erinnerung/grab/4",
+   "citeLabel": "Byron, Childe Harold III, Str. 56–57",
+   "citeLabel_en": "Byron, Childe Harold III, st. 56–57"
+  },
+  {
+   "d": "14. Dezember 1820",
+   "d_en": "14 December 1820",
+   "side": "kais",
+   "titel": "Der König an Marceaus Schwester",
+   "titel_en": "The King to Marceau's sister",
+   "text": "Das Grabmal ist für die preußische Festung abgetragen und am Fuß des Hügels neu errichtet worden; Friedrich Wilhelm III. antwortet Marceaus Schwester auf ihren Dank. Die Asche hatten, so Stramberg, Gassenjungen verstreut.",
+   "text_en": "The tomb has been taken down for the Prussian fortress and rebuilt at the foot of the hill; Frederick William III replies to Marceau's sister's thanks. The ashes, according to Stramberg, had been scattered by street boys.",
+   "cite": "#/text/erinnerung/abbruch/8",
+   "citeLabel": "Stramberg S. 314–316",
+   "citeLabel_en": "Stramberg pp. 314–316",
+   "plate": "vizerinnerung"
   }
  ]
 }

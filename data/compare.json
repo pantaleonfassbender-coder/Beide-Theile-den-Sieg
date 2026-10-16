@@ -656,6 +656,129 @@
      "autor_en": "National-Zeitung (1796)"
     }
    ]
+  },
+  {
+   "id": "drei-namen",
+   "titel": "Ein Gefecht, drei Namen",
+   "titel_en": "One action, three names",
+   "frage": "Kléber schreibt vom Schlachtfeld „en avant d'Uckerath“, Bleibtreu vom Treffen „zwischen Uckerath und Kircheip“, ein Wiesbadener Tagebuch von der „Niederlage bei Weyerbusch“.",
+   "frage_en": "Kléber writes from the battlefield “in front of Uckerath”, Bleibtreu of the action “between Uckerath and Kircheip”, a Wiesbaden diary of the “defeat at Weyerbusch”.",
+   "note": "Der Erzherzog nennt den Ort „Kircheip“; die Verlustliste von 1877 „Uckerath und Kircheip“. Wer den Namen gibt, stand an einem anderen Ende der Straße.",
+   "note_en": "The Archduke calls the place “Kircheip”; the loss list of 1877 “Uckerath and Kircheip”. Whoever gives the name stood at a different end of the road.",
+   "voices": [
+    {
+     "text": "kircheib",
+     "sec": "gefecht",
+     "n": [
+      16
+     ],
+     "side": "frz",
+     "autor": "Kléber (19. Juni 1796)",
+     "autor_en": "Kléber (19 June 1796)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "uckerath",
+     "n": [
+      23
+     ],
+     "side": "zeugen",
+     "autor": "Stockhausen bei Bleibtreu (1834)",
+     "autor_en": "Stockhausen in Bleibtreu (1834)"
+    },
+    {
+     "text": "erinnerung",
+     "sec": "volk",
+     "n": [
+      10
+     ],
+     "side": "land",
+     "autor": "Lautz und Otto (1796/1890)",
+     "autor_en": "Lautz and Otto (1796/1890)"
+    }
+   ]
+  },
+  {
+   "id": "sieger-erinnerung",
+   "titel": "Wer siegte in der Erinnerung?",
+   "titel_en": "Who won in memory?",
+   "frage": "Die Gegend erinnerte den 19. Juni nach Bleibtreu als österreichischen Sieg; die National-Zeitung meldete den 19. September als Sieg der Kaiserlichen; Dahlhoff ließ 1874 den Erzherzog in Altenkirchen über Jourdan siegen.",
+   "frage_en": "According to Bleibtreu the region remembered 19 June as an Austrian victory; the National-Zeitung reported 19 September as an Imperial victory; in 1874 Dahlhoff had the Archduke defeat Jourdan at Altenkirchen.",
+   "note": "Keiner der drei Sätze stimmt mit den Akten ganz überein: Am 19. Juni beanspruchten beide Seiten den Sieg, am 19. September zog sich Marceaus Nachhut geordnet zurück, und in Altenkirchen kämpften am 4. Juni Kléber und Württemberg, nicht Jourdan und der Erzherzog.",
+   "note_en": "None of the three sentences agrees entirely with the records: on 19 June both sides claimed the victory, on 19 September Marceau's rearguard withdrew in order, and at Altenkirchen on 4 June Kléber and Württemberg fought, not Jourdan and the Archduke.",
+   "voices": [
+    {
+     "text": "kircheib",
+     "sec": "uckerath",
+     "n": [
+      25
+     ],
+     "side": "zeugen",
+     "autor": "Bleibtreu (1834)",
+     "autor_en": "Bleibtreu (1834)"
+    },
+    {
+     "text": "marceau",
+     "sec": "ehren",
+     "n": [
+      14
+     ],
+     "side": "zeugen",
+     "autor": "National-Zeitung (1796)",
+     "autor_en": "National-Zeitung (1796)"
+    },
+    {
+     "text": "feldzug",
+     "sec": "land",
+     "n": [
+      13
+     ],
+     "side": "land",
+     "autor": "Dahlhoff (1874)",
+     "autor_en": "Dahlhoff (1874)"
+    }
+   ]
+  },
+  {
+   "id": "respecte",
+   "titel": "„Respecte les cendres“",
+   "titel_en": "“Respecte les cendres”",
+   "frage": "Die Grabschrift bittet Freund und Feind, die Asche zu achten; Byron ruft „Honour to Marceau!“; Stramberg erzählt, wie Gassenjungen beim Abbruch die Urne leerten.",
+   "frage_en": "The epitaph asks friend and enemy to respect the ashes; Byron cries “Honour to Marceau!”; Stramberg tells how street boys emptied the urn during the demolition.",
+   "note": "Die Gegner von 1796 hielten die Bitte; die Nachwelt nicht. Stramberg ist die einzige hier gelesene Quelle für den Vorgang.",
+   "note_en": "The enemies of 1796 kept the request; posterity did not. Stramberg is the only source read here for the episode.",
+   "voices": [
+    {
+     "text": "erinnerung",
+     "sec": "grab",
+     "n": [
+      3
+     ],
+     "side": "frz",
+     "autor": "Grabinschriften (1797)",
+     "autor_en": "Inscriptions (1797)"
+    },
+    {
+     "text": "erinnerung",
+     "sec": "grab",
+     "n": [
+      4
+     ],
+     "side": "rezeption",
+     "autor": "Byron (1816)",
+     "autor_en": "Byron (1816)"
+    },
+    {
+     "text": "erinnerung",
+     "sec": "abbruch",
+     "n": [
+      8
+     ],
+     "side": "rezeption",
+     "autor": "Stramberg (1851)",
+     "autor_en": "Stramberg (1851)"
+    }
+   ]
   }
  ]
 }

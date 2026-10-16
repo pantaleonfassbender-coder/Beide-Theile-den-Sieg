@@ -212,6 +212,28 @@
    "source": "Wikimedia Commons, A la mémoire du général Marceau mort de ses blessures à Altenkirchen, agé de XXVII ans, l'an IV de la République française... - estampe - gravé par Sergent et offert à son épouse Emira Marceau - btv1b84126268.jpg",
    "url": "https://commons.wikimedia.org/wiki/File:A_la_m%C3%A9moire_du_g%C3%A9n%C3%A9ral_Marceau_mort_de_ses_blessures_%C3%A0_Altenkirchen%2C_ag%C3%A9_de_XXVII_ans%2C_l%27an_IV_de_la_R%C3%A9publique_fran%C3%A7aise..._-_estampe_-_grav%C3%A9_par_Sergent_et_offert_%C3%A0_son_%C3%A9pouse_Emira_Marceau_-_btv1b84126268.jpg",
    "cite": "#/text/marceau/ehren/15"
+  },
+  {
+   "id": "petersberg",
+   "side": "rezeption",
+   "titel": "„Tombeau du Gal Marceau“ auf der Tranchot-Karte",
+   "titel_en": "“Tombeau du Gal Marceau” on the Tranchot map",
+   "caption": "Ausschnitt der Kartenaufnahme der Rheinlande durch Tranchot und v. Müffling, Blatt Koblenz, aufgenommen in den ersten Jahren nach 1800: auf dem Petersberg nördlich der Mosel „Tombeau du Gal Marceau“, darunter „Sepulture du Gal Hoche“, gegenüber die Stadt Koblenz. Die Karte zeigt das Grabmal an seinem ursprünglichen Ort, vor dem Festungsbau. Norden oben.",
+   "caption_en": "Detail of the survey of the Rhineland by Tranchot and von Müffling, sheet Koblenz, made in the first years after 1800: on the Petersberg north of the Moselle “Tombeau du Gal Marceau”, below it “Sepulture du Gal Hoche”, opposite the town of Koblenz. The map shows the tomb in its original place, before the fortress was built. North at the top.",
+   "source": "Kartenaufnahme der Rheinlande durch Tranchot und v. Müffling, Blatt Koblenz; ©GeoBasis-DE / LVermGeoRP (2026), dl-de/by-2-0, http://www.lvermgeo.rlp.de [Daten bearbeitet: Ausschnitt]",
+   "url": "http://www.lvermgeo.rlp.de",
+   "cite": "#/text/erinnerung/grab/2"
+  },
+  {
+   "id": "vizerinnerung",
+   "side": "rezeption",
+   "titel": "Was erinnert wurde, 1796–1851",
+   "titel_en": "What was remembered, 1796–1851",
+   "caption": "Grafik des Apparats: die Stationen der Erinnerung in den Texten dieses Apparats, jede mit ihrem Beleg. Fast alle gelten Marceau; für die Toten der Gefechte bei Altenkirchen und Kircheib nennen die hier gelesenen Quellen kein Denkmal.",
+   "caption_en": "The apparatus's graphic: the stations of memory in this apparatus's texts, each with its reference. Almost all concern Marceau; for the dead of the actions at Altenkirchen and Kircheib the sources read here name no memorial.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/erinnerung/grab/1"
   }
  ]
 }

@@ -24,8 +24,9 @@ CREDIT = "Gemeinfreie Bilder über Wikimedia Commons, jeweils mit ihrem Original
 CREDIT_EN = "Public-domain images via Wikimedia Commons, each named with its original; the apparatus's own graphics CC BY 4.0, rivers from Natural Earth (public domain)."
 
 # Kartentafeln aus offenen Diensten (Bild von tools/fetch-*.py), Quelle und Fundort
-WMS = {"tranchot": "Kartenaufnahme der Rheinlande durch Tranchot und v. Müffling (1801–1828), Geobasis NRW, dl-de/zero-2.0"}
-WMS_URL = {"tranchot": "https://www.wms.nrw.de/geobasis/wms_nw_tranchot"}
+WMS = {"tranchot": "Kartenaufnahme der Rheinlande durch Tranchot und v. Müffling (1801–1828), Geobasis NRW, dl-de/zero-2.0",
+       "petersberg": "Kartenaufnahme der Rheinlande durch Tranchot und v. Müffling, Blatt Koblenz; ©GeoBasis-DE / LVermGeoRP (2026), dl-de/by-2-0, http://www.lvermgeo.rlp.de [Daten bearbeitet: Ausschnitt]"}
+WMS_URL = {"tranchot": "https://www.wms.nrw.de/geobasis/wms_nw_tranchot", "petersberg": "http://www.lvermgeo.rlp.de"}
 
 # id, Seite, Quelle ("commons:Datei" oder "viz:Datei"), Titel, Titel EN, Bildunterschrift, EN, Verweis
 PLATES = [
@@ -107,6 +108,14 @@ PLATES = [
      "Aquatinta von Sergent, 1797, Bibliothèque nationale de France: ein Grabmal unter Kiefern in einer Landschaft, davor trauernde Frauen und ein Soldat. Die Inschrift: „mort de ses blessures à Altenkirchen, âgé de XXVII ans“. Ein erdachtes Bild, kein Abbild des Grabes auf dem Petersberg.",
      "Aquatint by Sergent, 1797, Bibliothèque nationale de France: a tomb under pines in a landscape, with mourning women and a soldier. The inscription: “died of his wounds at Altenkirchen, aged 27”. An imagined picture, not a likeness of the grave on the Petersberg.",
      "#/text/marceau/ehren/15"),
+    ("petersberg", "rezeption", "wms:petersberg", "„Tombeau du Gal Marceau“ auf der Tranchot-Karte", "“Tombeau du Gal Marceau” on the Tranchot map",
+     "Ausschnitt der Kartenaufnahme der Rheinlande durch Tranchot und v. Müffling, Blatt Koblenz, aufgenommen in den ersten Jahren nach 1800: auf dem Petersberg nördlich der Mosel „Tombeau du Gal Marceau“, darunter „Sepulture du Gal Hoche“, gegenüber die Stadt Koblenz. Die Karte zeigt das Grabmal an seinem ursprünglichen Ort, vor dem Festungsbau. Norden oben.",
+     "Detail of the survey of the Rhineland by Tranchot and von Müffling, sheet Koblenz, made in the first years after 1800: on the Petersberg north of the Moselle “Tombeau du Gal Marceau”, below it “Sepulture du Gal Hoche”, opposite the town of Koblenz. The map shows the tomb in its original place, before the fortress was built. North at the top.",
+     "#/text/erinnerung/grab/2"),
+    ("vizerinnerung", "rezeption", "viz:vizerinnerung", "Was erinnert wurde, 1796–1851", "What was remembered, 1796–1851",
+     "Grafik des Apparats: die Stationen der Erinnerung in den Texten dieses Apparats, jede mit ihrem Beleg. Fast alle gelten Marceau; für die Toten der Gefechte bei Altenkirchen und Kircheib nennen die hier gelesenen Quellen kein Denkmal.",
+     "The apparatus's graphic: the stations of memory in this apparatus's texts, each with its reference. Almost all concern Marceau; for the dead of the actions at Altenkirchen and Kircheib the sources read here name no memorial.",
+     "#/text/erinnerung/grab/1"),
 ]
 
 

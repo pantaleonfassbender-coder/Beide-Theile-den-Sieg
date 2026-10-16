@@ -224,7 +224,7 @@ async function reader([id, secId, unitN]) {
 }
 
 // Seitenangaben "S. 20–21" in der englischen Oberfläche als "pp. 20–21"
-const pgL = pg => ui === "en" ? pg.replace(/\bS\. (\d+)\s*[–-]\s*(\d+)/g, "pp. $1–$2").replace(/\bS\. /g, "p. ").replace(/, Anm\.$/, ", note") : pg;
+const pgL = pg => ui === "en" ? pg.replace(/\bAusg\. /g, "ed. ").replace(/\bS\. (\d+)\s*[–-]\s*(\d+)/g, "pp. $1–$2").replace(/\bS\. /g, "p. ").replace(/, Anm\.$/, ", note") : pg;
 
 /* ------------------------------------------------------------ compare */
 async function compare([pid]) {
@@ -266,7 +266,7 @@ async function compare([pid]) {
 function timeline() {
   const TL = D.timeline;
   view.innerHTML = `
-    <span class="tag">${esc(S("tlTag"))}</span><h1>1795–1796</h1>
+    <span class="tag">${esc(S("tlTag"))}</span><h1>1796–1820</h1>
     <p class="lede">${esc(L(TL, "lede"))}</p>
     <div class="legend">${Object.keys(SIDES).map(side).join(" ")}</div>
     <div class="tl">${TL.stations.map(s => {
