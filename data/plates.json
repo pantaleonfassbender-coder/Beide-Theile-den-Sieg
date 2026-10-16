@@ -58,6 +58,61 @@
    "source": "Wikimedia Commons, Ferdinand Württemberg Litho.jpg",
    "url": "https://commons.wikimedia.org/wiki/File:Ferdinand_W%C3%BCrttemberg_Litho.jpg",
    "cite": "#/text/feldzug/sieg/9"
+  },
+  {
+   "id": "vizaltenkirchen",
+   "side": "frz",
+   "titel": "Altenkirchen, 4. Juni 1796",
+   "titel_en": "Altenkirchen, 4 June 1796",
+   "caption": "Grafik des Apparats nach Angeli (S. 77–81), Erzherzog Carl (Grundsätze II, S. 53–56) und Schels (S. 148): die vier französischen Kolonnen, die kaiserlichen Posten am Morgen und der Rückzug nach Freilingen. Orte nach heutigen Koordinaten; die Pfeile verbinden die Orte, die die Quellen nennen, und zeigen keinen Wegverlauf.",
+   "caption_en": "The apparatus's graphic after Angeli (pp. 77–81), Archduke Charles (Grundsätze II, pp. 53–56) and Schels (p. 148): the four French columns, the Imperial posts in the morning and the retreat to Freilingen. Places by today's coordinates; the arrows join the places the sources name and do not show the line of the roads.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/altenkirchen/angriff/14"
+  },
+  {
+   "id": "bellange",
+   "side": "frz",
+   "titel": "Bellangé: Bataille d'Altenkirchen",
+   "titel_en": "Bellangé: Bataille d'Altenkirchen",
+   "caption": "Hippolyte Bellangé, Bataille d'Altenkirchen, 4 juin 1796, Gemälde 1838/39, Versailles. Ein Bild der Erinnerung, vierzig Jahre nach dem Gefecht gemalt, kein Augenzeugnis.",
+   "caption_en": "Hippolyte Bellangé, Bataille d'Altenkirchen, 4 juin 1796, painting of 1838/39, Versailles. A picture of memory, painted forty years after the action, not an eyewitness record.",
+   "source": "Wikimedia Commons, Bataille d'Altenkirchen, 4 juin 1796.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Bataille_d%27Altenkirchen%2C_4_juin_1796.jpg",
+   "cite": "#/text/altenkirchen/angriff/12"
+  },
+  {
+   "id": "lefebvre",
+   "side": "frz",
+   "titel": "François-Joseph Lefebvre",
+   "titel_en": "François-Joseph Lefebvre",
+   "caption": "François-Joseph Lefebvre als Offizier der Revolution, Bildnis von Ferdinand Wachsmuth, 1834, Versailles. Am 4. Juni 1796 führte er die Vorhutdivision und die mittlere Kolonne gegen Altenkirchen.",
+   "caption_en": "François-Joseph Lefebvre as an officer of the Revolution, portrait by Ferdinand Wachsmuth, 1834, Versailles. On 4 June 1796 he led the advance-guard division and the centre column against Altenkirchen.",
+   "source": "Wikimedia Commons, Marechal-Lefebvre.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Marechal-Lefebvre.jpg",
+   "cite": "#/text/altenkirchen/angriff/13"
+  },
+  {
+   "id": "soult",
+   "side": "frz",
+   "titel": "Jean-de-Dieu Soult",
+   "titel_en": "Jean-de-Dieu Soult",
+   "caption": "Jean-de-Dieu Soult als Marschall, Bildnis von Louis Henri de Rudder nach Jean Broc (1805), Versailles. 1796 führte er die linke Kolonne bei Altenkirchen; seine Erinnerungen erschienen 1854.",
+   "caption_en": "Jean-de-Dieu Soult as marshal, portrait by Louis Henri de Rudder after Jean Broc (1805), Versailles. In 1796 he led the left column at Altenkirchen; his memoirs appeared in 1854.",
+   "source": "Wikimedia Commons, Jean-de-Dieu Soult, maréchal duc de Dalmatie (1769-1851).jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Jean-de-Dieu_Soult%2C_mar%C3%A9chal_duc_de_Dalmatie_%281769-1851%29.jpg",
+   "cite": "#/text/altenkirchen/angriff/18"
+  },
+  {
+   "id": "richepanse",
+   "side": "frz",
+   "titel": "Antoine Richepanse",
+   "titel_en": "Antoine Richepanse",
+   "caption": "Antoine Richepanse, Bildnis von Louis Édouard Rioult, 1846, nach einem Familienbildnis, Musée de l'Armée. Kléber ernannte ihn am 4. Juni 1796 auf dem Schlachtfeld vorläufig zum Brigadegeneral.",
+   "caption_en": "Antoine Richepanse, portrait by Louis Édouard Rioult, 1846, after a family portrait, Musée de l'Armée. Kléber made him provisional brigadier-general on the field on 4 June 1796.",
+   "source": "Wikimedia Commons, Rioult - Antoine Richepance (1770-1802).jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Rioult_-_Antoine_Richepance_%281770-1802%29.jpg",
+   "cite": "#/text/altenkirchen/zahlen/19"
   }
  ]
 }

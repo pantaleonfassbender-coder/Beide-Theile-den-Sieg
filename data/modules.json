@@ -10,18 +10,20 @@
    "quelle": "Jourdan, Mémoires (Paris 1818) S. 20–26; [Erzherzog Carl], Grundsätze der Strategie II (Wien 1814) S. 21, 45–47; Dahlhoff, Geschichte der Grafschaft Sayn (Dillenburg 1874) S. 77; Bleibtreu, Denkwürdigkeiten (Bonn 1834) S. 84",
    "datei": "feldzug",
    "zk": "Feldzug"
-  }
- ],
- "planned": [
+  },
   {
    "id": "altenkirchen",
    "side": "frz",
    "kurz": "Altenkirchen, 4. Juni 1796",
    "kurz_en": "Altenkirchen, 4 June 1796",
-   "warum": "Kléber gegen Württemberg: drei Kolonnen über Hilgenroth, die Chaussee und Mehren, das Regiment Jordis bei Kroppach, und wie viele Gefangene es waren.",
-   "warum_en": "Kléber against Württemberg: three columns by Hilgenroth, the high road and Mehren, the regiment Jordis at Kroppach, and how many prisoners there were.",
-   "quelle": "Angeli (1896) S. 70–81; Carl II (1814) S. 46–56; Jourdan, Mémoires (1818) S. 26–31; Kléber bei Pajol (1877) S. 209–213; Soult, Mémoires I (1854); Schels (1841)"
-  },
+   "warum": "Kléber gegen Württemberg: der Übergang über die Sieg, ein Gegenangriff, der an einem verfehlten Befehl scheiterte, die Kolonnen über Mehren, die Chaussee und Hilgenroth, das Regiment Jordis auf den Höhen, und wie viele Gefangene es waren. Sieben Darstellungen, französisch und deutsch, mit Übersetzungen.",
+   "warum_en": "Kléber against Württemberg: the crossing of the Sieg, a counter-attack that failed on a missed order, the columns by Mehren, the high road and Hilgenroth, the regiment Jordis on the heights, and how many prisoners there were. Seven accounts, French and German, with translations.",
+   "quelle": "Jourdan (1818) S. 26–30; Carl II (1814) S. 48–56; Kléber an Jourdan, bei Pajol (1877) S. 210–212; Angeli I (1896) S. 77–81; Soult I (1854) S. 292–294; Schels (1841) S. 148–150; Mayr, Regiment Jordis (1812) S. 45",
+   "datei": "altenkirchen",
+   "zk": "Altenkirchen"
+  }
+ ],
+ "planned": [
   {
    "id": "kircheib",
    "side": "kais",

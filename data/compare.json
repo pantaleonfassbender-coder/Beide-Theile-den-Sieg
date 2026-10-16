@@ -42,6 +42,139 @@
      "autor_en": "Archduke Charles (1814)"
     }
    ]
+  },
+  {
+   "id": "gefangene",
+   "titel": "Wie viele wurden gefangen?",
+   "titel_en": "How many were taken prisoner?",
+   "frage": "Kléber meldet am Abend 3.000 Gefangene mit drei ganzen Bataillonen Jordis; der Erzherzog nennt „die beiden Bataillons“, Schels „zehn Kompagnien“, und die Regimentsgeschichte keine Zahl.",
+   "frage_en": "Kléber reports 3,000 prisoners that evening, with three whole Jordis battalions; the Archduke speaks of “the two battalions”, Schels of “ten companies”, and the regimental history gives no figure.",
+   "note": "Die französischen Zahlen stammen aus Klébers Meldung und werden von Jourdan und Soult wiederholt; die österreichischen zählen Truppenteile, nicht Köpfe. Dass sich viele Gefangene auf dem Transport selbst befreiten, sagt nur die Regimentsgeschichte.",
+   "note_en": "The French figures come from Kléber's report and are repeated by Jourdan and Soult; the Austrian ones count units, not heads. That many prisoners freed themselves during transport only the regimental history says.",
+   "voices": [
+    {
+     "text": "altenkirchen",
+     "sec": "zahlen",
+     "n": [
+      19
+     ],
+     "side": "frz",
+     "autor": "Kléber (1796)",
+     "autor_en": "Kléber (1796)"
+    },
+    {
+     "text": "altenkirchen",
+     "sec": "angriff",
+     "n": [
+      16
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl (1814)",
+     "autor_en": "Archduke Charles (1814)"
+    },
+    {
+     "text": "altenkirchen",
+     "sec": "zahlen",
+     "n": [
+      22
+     ],
+     "side": "kais",
+     "autor": "Schels (1841)",
+     "autor_en": "Schels (1841)"
+    },
+    {
+     "text": "altenkirchen",
+     "sec": "zahlen",
+     "n": [
+      20
+     ],
+     "side": "kais",
+     "autor": "Mayr, Regiment Jordis (1812)",
+     "autor_en": "Mayr, regiment Jordis (1812)"
+    }
+   ]
+  },
+  {
+   "id": "warum",
+   "titel": "Warum brach die Stellung?",
+   "titel_en": "Why did the position break?",
+   "frage": "Die Stadtbesatzung ging zu früh, sagen Carl und Angeli; die Infanterie habe mit blinden Patronen geschossen, meldete General Mylius; die Franzosen hätten ohne einen Schuss mit dem Bajonett gesiegt, schreibt Soult.",
+   "frage_en": "The town garrison left too early, say Charles and Angeli; the infantry fired blank cartridges, reported General Mylius; the French won with the bayonet without firing a shot, writes Soult.",
+   "note": "Jede Erklärung entlastet jemanden: Carls die Führung des Korps, Mylius' den Befehlshaber auf den Höhen, Soults die eigene Kolonne. Angeli hält zudem fest, dass der Rückzug vor dem Gefecht beschlossen war (Altenkirchen [11]).",
+   "note_en": "Each explanation relieves someone: Charles's the corps command, Mylius's the commander on the heights, Soult's his own column. Angeli also records that the retreat had been decided before the action (Altenkirchen [11]).",
+   "voices": [
+    {
+     "text": "altenkirchen",
+     "sec": "angriff",
+     "n": [
+      16
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl (1814)",
+     "autor_en": "Archduke Charles (1814)"
+    },
+    {
+     "text": "altenkirchen",
+     "sec": "zahlen",
+     "n": [
+      21
+     ],
+     "side": "kais",
+     "autor": "Mylius bei Angeli (1896)",
+     "autor_en": "Mylius in Angeli (1896)"
+    },
+    {
+     "text": "altenkirchen",
+     "sec": "angriff",
+     "n": [
+      18
+     ],
+     "side": "frz",
+     "autor": "Soult (1854)",
+     "autor_en": "Soult (1854)"
+    }
+   ]
+  },
+  {
+   "id": "siegburg",
+   "titel": "Siegburg: 2.400, tausend oder fünfhundert",
+   "titel_en": "Siegburg: 2,400, a thousand or five hundred",
+   "frage": "Kléber meldete für den 1. Juni 2.400 Mann Verlust des Gegners, davon tausend Gefangene; Jourdans Erinnerungen nennen das „etwas übertrieben“, Soult spricht von fünfhundert Gefangenen, der Erzherzog nennt keine Zahl.",
+   "frage_en": "For 1 June Kléber reported an enemy loss of 2,400 men, a thousand of them prisoners; Jourdan's memoirs call this “somewhat exaggerated”, Soult speaks of five hundred prisoners, the Archduke gives no figure.",
+   "note": "Ein seltener Fall, in dem eine Seite ihrer eigenen Meldung öffentlich misstraut.",
+   "note_en": "A rare case in which one side openly distrusts its own report.",
+   "voices": [
+    {
+     "text": "altenkirchen",
+     "sec": "sieg",
+     "n": [
+      1
+     ],
+     "side": "frz",
+     "autor": "Jourdan (1818)",
+     "autor_en": "Jourdan (1818)"
+    },
+    {
+     "text": "altenkirchen",
+     "sec": "sieg",
+     "n": [
+      3
+     ],
+     "side": "frz",
+     "autor": "Soult (1854)",
+     "autor_en": "Soult (1854)"
+    },
+    {
+     "text": "altenkirchen",
+     "sec": "sieg",
+     "n": [
+      2
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl (1814)",
+     "autor_en": "Archduke Charles (1814)"
+    }
+   ]
   }
  ]
 }

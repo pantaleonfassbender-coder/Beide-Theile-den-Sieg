@@ -224,7 +224,7 @@ async function reader([id, secId, unitN]) {
 }
 
 // Seitenangaben "S. 20–21" in der englischen Oberfläche als "pp. 20–21"
-const pgL = pg => ui === "en" ? pg.replace(/\bS\. (\d+)\s*[–-]\s*(\d+)/g, "pp. $1–$2").replace(/\bS\. /g, "p. ") : pg;
+const pgL = pg => ui === "en" ? pg.replace(/\bS\. (\d+)\s*[–-]\s*(\d+)/g, "pp. $1–$2").replace(/\bS\. /g, "p. ").replace(/, Anm\.$/, ", note") : pg;
 
 /* ------------------------------------------------------------ compare */
 async function compare([pid]) {

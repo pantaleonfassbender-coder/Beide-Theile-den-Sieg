@@ -40,6 +40,67 @@
    "citeLabel": "Carl II S. 45",
    "citeLabel_en": "Charles II p. 45",
    "plate": "kleber"
+  },
+  {
+   "d": "1. Juni 1796",
+   "d_en": "1 June 1796",
+   "side": "frz",
+   "titel": "Siegburg",
+   "titel_en": "Siegburg",
+   "text": "Kléber geht über Agger und Sieg, nimmt Brücke und Stadt Siegburg und wirft Kienmayers Vorhut bis Warth zurück. Kléber meldet 2.400 Mann Verlust des Gegners, Jourdans Herausgeber hält das für übertrieben, Soult nennt fünfhundert Gefangene.",
+   "text_en": "Kléber crosses the Agger and the Sieg, takes the bridge and town of Siegburg and throws Kienmayer's advance guard back to Warth. Kléber reports an enemy loss of 2,400 men, Jourdan's editor thinks this exaggerated, Soult gives five hundred prisoners.",
+   "cite": "#/text/altenkirchen/sieg/1",
+   "citeLabel": "Jourdan S. 26–27; Carl II S. 48–49; Soult S. 292",
+   "citeLabel_en": "Jourdan pp. 26–27; Charles II pp. 48–49; Soult p. 292"
+  },
+  {
+   "d": "2. Juni 1796",
+   "d_en": "2 June 1796",
+   "side": "frz",
+   "titel": "Uckerath umgangen",
+   "titel_en": "Uckerath turned",
+   "text": "Lefebvre geht bei Blankenberg über die Sieg, Collaud über Jungeroth; die Kaiserlichen weichen auf Altenkirchen. Kléber lagert bei Uckerath.",
+   "text_en": "Lefebvre crosses the Sieg at Blankenberg, Collaud comes by Jungeroth; the Imperial troops fall back on Altenkirchen. Kléber camps at Uckerath.",
+   "cite": "#/text/altenkirchen/sieg/4",
+   "citeLabel": "Jourdan S. 27–28; Carl II S. 50",
+   "citeLabel_en": "Jourdan pp. 27–28; Charles II p. 50"
+  },
+  {
+   "d": "3. Juni 1796",
+   "d_en": "3 June 1796",
+   "side": "kais",
+   "titel": "Der Gegenangriff, der nicht stattfand",
+   "titel_en": "The counter-attack that did not happen",
+   "text": "Der Prinz von Württemberg setzt einen Angriff auf 5 Uhr abends an, Signal drei Kanonenschüsse. Eine französische Erkundung lässt ihn den Befehl ändern; die Aufhebung der Änderung erreicht den Obersten Gottesheim nicht, und der Angriff wird abgebrochen.",
+   "text_en": "The Prince of Württemberg sets an attack for 5 in the evening, signal three cannon shots. A French reconnaissance makes him change the order; the cancellation of the change does not reach Colonel Gottesheim, and the attack is broken off.",
+   "cite": "#/text/altenkirchen/sieg/7",
+   "citeLabel": "Carl II S. 50–53",
+   "citeLabel_en": "Charles II pp. 50–53"
+  },
+  {
+   "d": "4. Juni 1796",
+   "d_en": "4 June 1796",
+   "side": "frz",
+   "titel": "Altenkirchen",
+   "titel_en": "Altenkirchen",
+   "text": "Lefebvre greift in drei Kolonnen an, Ney zieht als vierte gegen Dierdorf. Die Bataillone Jordis halten dreimal stand und werden beim vierten Angriff gefangen. 3.000 Gefangene nach den Franzosen, zwei Bataillone nach dem Erzherzog, zehn Kompanien nach Schels.",
+   "text_en": "Lefebvre attacks in three columns, Ney moves as a fourth on Dierdorf. The Jordis battalions hold three times and are taken at the fourth attack. 3,000 prisoners according to the French, two battalions according to the Archduke, ten companies according to Schels.",
+   "cite": "#/text/altenkirchen/angriff/12",
+   "citeLabel": "Kléber, Jourdan, Carl, Angeli, Soult, Schels",
+   "citeLabel_en": "Kléber, Jourdan, Charles, Angeli, Soult, Schels",
+   "plate": "vizaltenkirchen"
+  },
+  {
+   "d": "5. Juni 1796",
+   "d_en": "5 June 1796",
+   "side": "kais",
+   "titel": "Rückzug nach Molsberg",
+   "titel_en": "Retreat to Molsberg",
+   "text": "Die Kaiserlichen gehen über Freilingen nach Molsberg; Collaud besetzt Montabaur, Finke weicht gegen die Lahn, die Division Bonnard schließt Ehrenbreitstein ein.",
+   "text_en": "The Imperial troops fall back by Freilingen to Molsberg; Collaud occupies Montabaur, Finke gives way towards the Lahn, Bonnard's division invests Ehrenbreitstein.",
+   "cite": "#/text/altenkirchen/danach/25",
+   "citeLabel": "Carl II S. 56; Angeli S. 81",
+   "citeLabel_en": "Charles II p. 56; Angeli p. 81"
   }
  ]
 }
