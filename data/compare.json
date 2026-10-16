@@ -175,6 +175,221 @@
      "autor_en": "Archduke Charles (1814)"
     }
    ]
+  },
+  {
+   "id": "wer-siegte",
+   "titel": "Wer hatte gesiegt?",
+   "titel_en": "Who had won?",
+   "frage": "Kray nennt den 19. Juni einen „herrlichen Sieg“, Kléber meldet, er habe seine Stellung behauptet, der Erzherzog schreibt: „Beide Theile eigneten sich den Sieg zu“, und Jourdan spricht vom nutzlosen Verlust so vieler Tapferer.",
+   "frage_en": "Kray calls 19 June “a glorious victory”, Kléber reports that he held his position, the Archduke writes “Both sides claimed the victory”, and Jourdan speaks of the useless loss of so many brave men.",
+   "note": "Die beiden Befehlshaber schreiben am Tag selbst oder am Tag danach, die beiden Feldherren Jahre später. Der Satz des Erzherzogs gab dem Apparat seinen Titel; in der Gegend hielt sich nach Bleibtreu die Erinnerung an einen österreichischen Sieg (Kircheib [25]).",
+   "note_en": "The two commanders write on the day itself or the day after, the two army commanders years later. The Archduke's sentence gave the apparatus its title; in the region, according to Bleibtreu, the memory of an Austrian victory survived (Kircheib [25]).",
+   "voices": [
+    {
+     "text": "kircheib",
+     "sec": "gefecht",
+     "n": [
+      15
+     ],
+     "side": "kais",
+     "autor": "Kray (20. Juni 1796)",
+     "autor_en": "Kray (20 June 1796)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "gefecht",
+     "n": [
+      16
+     ],
+     "side": "frz",
+     "autor": "Kléber (19. Juni 1796)",
+     "autor_en": "Kléber (19 June 1796)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "sieg",
+     "n": [
+      17
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl (1814)",
+     "autor_en": "Archduke Charles (1814)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "sieg",
+     "n": [
+      18
+     ],
+     "side": "frz",
+     "autor": "Jourdan (1818)",
+     "autor_en": "Jourdan (1818)"
+    }
+   ]
+  },
+  {
+   "id": "krays-staerke",
+   "titel": "14.000 oder 40.000?",
+   "titel_en": "14,000 or 40,000?",
+   "frage": "Der Erzherzog gibt Kray 14.000 Mann, Kléber schreibt am Abend, die gemäßigtsten Berichte zählten 40.000, nach Überläufern mehr als 40 Bataillone; Pajol setzt später mehr als dreißig Bataillone.",
+   "frage_en": "The Archduke gives Kray 14,000 men, Kléber writes that evening that the most moderate reports counted 40,000, according to deserters more than 40 battalions; Pajol later puts it at more than thirty battalions.",
+   "note": "Die Aufstellung in Krays Briefausgabe von 1909 zählt die Vorhut zu 14.554 Mann. Klébers Zahl rechtfertigt den Rückzug und begründet seine Bitte um Verstärkung im selben Brief.",
+   "note_en": "The table in the 1909 edition of Kray's letters counts the advance guard at 14,554 men. Kléber's figure justifies the retreat and supports his request for reinforcement in the same letter.",
+   "voices": [
+    {
+     "text": "kircheib",
+     "sec": "gefecht",
+     "n": [
+      10
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl (1814)",
+     "autor_en": "Archduke Charles (1814)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "gefecht",
+     "n": [
+      16
+     ],
+     "side": "frz",
+     "autor": "Kléber (19. Juni 1796)",
+     "autor_en": "Kléber (19 June 1796)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "sieg",
+     "n": [
+      22
+     ],
+     "side": "frz",
+     "autor": "Pajol (1874)",
+     "autor_en": "Pajol (1874)"
+    }
+   ]
+  },
+  {
+   "id": "weisungen",
+   "titel": "Gegen die Weisungen?",
+   "titel_en": "Against his instructions?",
+   "frage": "Hielt Kléber bei Uckerath auf Befehl, gegen den Sinn seiner Weisungen, oder weil seine Truppen nach zwei Nachtmärschen nicht weiter konnten?",
+   "frage_en": "Did Kléber hold at Uckerath on orders, against the spirit of his instructions, or because his troops could go no further after two night marches?",
+   "note": "Der Erzherzog nahm einen Befehl an; Jourdan widersprach 1818 und erklärte, er habe Kléber nur mündlich getadelt; Pajol verteidigte Kléber 1874 gegen Jomini. Klébers eigener Morgenbrief ist das Beweisstück aller drei.",
+   "note_en": "The Archduke assumed an order; Jourdan contradicted him in 1818 and explained that he had reproached Kléber only verbally; Pajol defended Kléber against Jomini in 1874. Kléber's own morning letter is the evidence of all three.",
+   "voices": [
+    {
+     "text": "kircheib",
+     "sec": "warum",
+     "n": [
+      6
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl (1814)",
+     "autor_en": "Archduke Charles (1814)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "warum",
+     "n": [
+      7
+     ],
+     "side": "frz",
+     "autor": "Jourdan (1818)",
+     "autor_en": "Jourdan (1818)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "warum",
+     "n": [
+      8
+     ],
+     "side": "frz",
+     "autor": "Pajol (1874)",
+     "autor_en": "Pajol (1874)"
+    }
+   ]
+  },
+  {
+   "id": "erzherzog",
+   "titel": "War der Erzherzog dabei?",
+   "titel_en": "Was the Archduke there?",
+   "frage": "Der Augenzeuge in Uckerath sah den Erzherzog bei Krays Vorhut; Kray schrieb, der Erzherzog sei untröstlich gewesen, nicht dabei gewesen zu sein; Angeli lässt ihn auf dem Weg erfahren, dass das Gefecht vorbei war.",
+   "frage_en": "The eyewitness at Uckerath saw the Archduke with Kray's advance guard; Kray wrote that the Archduke was inconsolable not to have been there; Angeli has him learn on the way that the action was over.",
+   "note": "Stockhausen schrieb nicht selbst; Bleibtreu gibt seinen Bericht 1834 wieder. Was ein Bewohner für den Erzherzog hielt, lässt sich nicht prüfen; Kray war dabei und schrieb am Tag danach.",
+   "note_en": "Stockhausen did not write himself; Bleibtreu gives his account in 1834. Whom an inhabitant took for the Archduke cannot be checked; Kray was there and wrote the day after.",
+   "voices": [
+    {
+     "text": "kircheib",
+     "sec": "uckerath",
+     "n": [
+      23
+     ],
+     "side": "zeugen",
+     "autor": "Stockhausen bei Bleibtreu (1834)",
+     "autor_en": "Stockhausen in Bleibtreu (1834)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "gefecht",
+     "n": [
+      15
+     ],
+     "side": "kais",
+     "autor": "Kray (20. Juni 1796)",
+     "autor_en": "Kray (20 June 1796)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "gefecht",
+     "n": [
+      14
+     ],
+     "side": "kais",
+     "autor": "Angeli (1896)",
+     "autor_en": "Angeli (1896)"
+    }
+   ]
+  },
+  {
+   "id": "verluste-19",
+   "titel": "Was der 19. Juni kostete",
+   "titel_en": "What 19 June cost",
+   "frage": "Die österreichischen Listen zählen auf eigener Seite 534 oder 544 Tote, Verwundete und Vermisste (Angeli druckt die Summe falsch) und 721 gefangene Franzosen; Kray schreibt von 800 Gefangenen, Kléber von vielen Verlusten ohne Zahl, Stockhausen hörte 1.500 und 400.",
+   "frage_en": "The Austrian lists count 534 or 544 of their own killed, wounded and missing (Angeli misprints the total) and 721 French prisoners; Kray writes of 800 prisoners, Kléber of heavy losses without a figure, Stockhausen heard 1,500 and 400.",
+   "note": "Französische Tote nennt keine der hier gelesenen Quellen mit einer Zahl. Angeli vermerkt, viele der Gefangenen seien ihren Wunden erlegen.",
+   "note_en": "None of the sources read here gives the French dead as a figure. Angeli notes that many of the prisoners died of their wounds.",
+   "voices": [
+    {
+     "text": "kircheib",
+     "sec": "sieg",
+     "n": [
+      19
+     ],
+     "side": "kais",
+     "autor": "Angeli (1896)",
+     "autor_en": "Angeli (1896)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "gefecht",
+     "n": [
+      15
+     ],
+     "side": "kais",
+     "autor": "Kray (20. Juni 1796)",
+     "autor_en": "Kray (20 June 1796)"
+    },
+    {
+     "text": "kircheib",
+     "sec": "uckerath",
+     "n": [
+      24
+     ],
+     "side": "zeugen",
+     "autor": "Stockhausen bei Bleibtreu (1834)",
+     "autor_en": "Stockhausen in Bleibtreu (1834)"
+    }
+   ]
   }
  ]
 }

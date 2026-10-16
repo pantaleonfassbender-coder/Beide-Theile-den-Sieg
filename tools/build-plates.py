@@ -23,6 +23,10 @@ LEDE_EN = "Portraits, maps and plans from public-domain holdings, and the appara
 CREDIT = "Gemeinfreie Bilder über Wikimedia Commons, jeweils mit ihrem Original genannt; eigene Grafiken CC BY 4.0, Flüsse aus Natural Earth (gemeinfrei)."
 CREDIT_EN = "Public-domain images via Wikimedia Commons, each named with its original; the apparatus's own graphics CC BY 4.0, rivers from Natural Earth (public domain)."
 
+# Kartentafeln aus offenen Diensten (Bild von tools/fetch-*.py), Quelle und Fundort
+WMS = {"tranchot": "Kartenaufnahme der Rheinlande durch Tranchot und v. Müffling (1801–1828), Geobasis NRW, dl-de/zero-2.0"}
+WMS_URL = {"tranchot": "https://www.wms.nrw.de/geobasis/wms_nw_tranchot"}
+
 # id, Seite, Quelle ("commons:Datei" oder "viz:Datei"), Titel, Titel EN, Bildunterschrift, EN, Verweis
 PLATES = [
     ("vizfeldzug", "kais", "viz:vizfeldzug", "Die Stellungen am 31. Mai 1796", "The positions on 31 May 1796",
@@ -66,6 +70,22 @@ PLATES = [
      "Antoine Richepanse, Bildnis von Louis Édouard Rioult, 1846, nach einem Familienbildnis, Musée de l'Armée. Kléber ernannte ihn am 4. Juni 1796 auf dem Schlachtfeld vorläufig zum Brigadegeneral.",
      "Antoine Richepanse, portrait by Louis Édouard Rioult, 1846, after a family portrait, Musée de l'Armée. Kléber made him provisional brigadier-general on the field on 4 June 1796.",
      "#/text/altenkirchen/zahlen/19"),
+    ("vizkircheib", "kais", "viz:vizkircheib", "Kircheib und Uckerath, 19. Juni 1796", "Kircheib and Uckerath, 19 June 1796",
+     "Grafik des Apparats nach Pajol (1874, S. 303–306), Erzherzog Carl (Grundsätze II, S. 94–97) und Angeli (S. 116–117): Klébers Lager bei Uckerath, Krays Vorhut von Weyerbusch, die drei französischen Kolonnen, die Kolonne gegen Blankenberg, und die Uhrzeiten, wie verschiedene Quellen sie nennen. Orte nach heutigen Koordinaten, die Sieg nur schematisch; Pfeile ohne Wegverlauf.",
+     "The apparatus's graphic after Pajol (1874, pp. 303–306), Archduke Charles (Grundsätze II, pp. 94–97) and Angeli (pp. 116–117): Kléber's camp at Uckerath, Kray's advance guard from Weyerbusch, the three French columns, the column against Blankenberg, and the times as different sources give them. Places by today's coordinates, the Sieg only schematic; arrows without the line of the roads.",
+     "#/text/kircheib/gefecht/12"),
+    ("tranchot", "land", "wms:tranchot", "Uckerath und Kircheip auf der Tranchot-Karte", "Uckerath and Kircheip on the Tranchot map",
+     "Ausschnitt der Kartenaufnahme der Rheinlande durch Tranchot und v. Müffling, aufgenommen 1801–1828, wenige Jahre nach dem Gefecht: links „Ukerath“, in der Mitte die Heide, auf der nach dem Augenzeugen Stockhausen die Franzosen lagerten („auf der Heide an der Marck“), rechts „Kircheip“ an der Straße nach Altenkirchen, dazwischen die Schluchten, die die Quellen nennen. Norden oben; die Blätter sind nicht nachgeglichen.",
+     "Detail of the survey of the Rhineland by Tranchot and von Müffling, made 1801–1828, a few years after the action: on the left “Ukerath”, in the middle the heath on which, according to the eyewitness Stockhausen, the French camped (“auf der Heide an der Marck”), on the right “Kircheip” on the road to Altenkirchen, and between them the ravines the sources mention. North at the top; the sheets are not adjusted to each other.",
+     "#/text/kircheib/uckerath/23"),
+    ("kray", "kais", "commons:Portret van Paul Kray von Krajowa, RP-P-1908-5026.jpg", "Paul Kray", "Paul Kray",
+     "Paul Kray von Krajowa, Stich von Carl Heinrich Rahl nach Joseph Anton Kapeller, Rijksmuseum Amsterdam. Am 19. Juni 1796 führte er die Vorhut des Erzherzogs gegen Kircheib; am Tag danach schrieb er seinem Bruder von einem „herrlichen Sieg“.",
+     "Paul Kray von Krajowa, engraving by Carl Heinrich Rahl after Joseph Anton Kapeller, Rijksmuseum Amsterdam. On 19 June 1796 he led the Archduke's advance guard against Kircheib; the next day he wrote to his brother of a “glorious victory”.",
+     "#/text/kircheib/gefecht/15"),
+    ("ney", "frz", "commons:Michel Ney (1792).jpg", "Michel Ney", "Michel Ney",
+     "Michel Ney als Unterleutnant der Husaren 1792, Bildnis von Adolphe Brune, 1834, Versailles. Am 19. Juni 1796 führte er als Generaladjutant Dragoner gegen Krays Reiterei; der Marschall des Kaiserreichs wurde er erst später.",
+     "Michel Ney as a sub-lieutenant of hussars in 1792, portrait by Adolphe Brune, 1834, Versailles. On 19 June 1796, as adjutant-general, he led dragoons against Kray's cavalry; he became a marshal of the Empire only later.",
+     "#/text/kircheib/gefecht/12"),
 ]
 
 
@@ -105,8 +125,8 @@ def main():
     meta = []
     for pid, side, src, t, t_en, c, c_en, cite in PLATES:
         kind, _, name = src.partition(":")
-        url = "https://commons.wikimedia.org/wiki/File:" + urllib.parse.quote(name.replace(" ", "_")) if kind == "commons" else ""
-        source = f"Wikimedia Commons, {name}" if kind == "commons" else "Grafik des Apparats, CC BY 4.0"
+        url = "https://commons.wikimedia.org/wiki/File:" + urllib.parse.quote(name.replace(" ", "_")) if kind == "commons" else WMS_URL.get(name, "")
+        source = f"Wikimedia Commons, {name}" if kind == "commons" else WMS.get(name, "Grafik des Apparats, CC BY 4.0")
         if kind == "commons" and (not only or pid in only):
             im = Image.open(io.BytesIO(commons(name))).convert("RGB")
             big = im.copy(); big.thumbnail((1600, 1600)); big.save(OUT / f"{pid}.jpg", quality=86)

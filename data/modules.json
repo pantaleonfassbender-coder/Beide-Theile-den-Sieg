@@ -21,18 +21,20 @@
    "quelle": "Jourdan (1818) S. 26–30; Carl II (1814) S. 48–56; Kléber an Jourdan, bei Pajol (1877) S. 210–212; Angeli I (1896) S. 77–81; Soult I (1854) S. 292–294; Schels (1841) S. 148–150; Mayr, Regiment Jordis (1812) S. 45",
    "datei": "altenkirchen",
    "zk": "Altenkirchen"
-  }
- ],
- "planned": [
+  },
   {
    "id": "kircheib",
    "side": "kais",
    "kurz": "Kircheib und Uckerath, 19. Juni 1796",
    "kurz_en": "Kircheib and Uckerath, 19 June 1796",
-   "warum": "Kray gegen Kléber: der Überfall in der Nacht, der Sturm auf Kircheib, die Grenadiere unter Mylius, 14.000 oder 40.000 Mann, und ein Augenzeuge in Uckerath.",
-   "warum_en": "Kray against Kléber: the night raid, the assault on Kircheib, the grenadiers under Mylius, 14,000 or 40,000 men, and an eyewitness at Uckerath.",
-   "quelle": "Pajol, Pajol général en chef I (1874) S. 302–306; Angeli (1896) S. 115–118; Carl II (1814) S. 92–99; Klébers Briefe bei Jourdan (1818); Bleibtreu (1834)"
-  },
+   "warum": "Das Gefecht, das dem Apparat den Titel gibt: Krays Vorhut gegen Klébers Nachhut, der Sturm auf die Höhe hinter Kircheib, die Grenadiere unter Mylius, 14.000 oder 40.000 Mann, ob Kléber gegen seine Weisungen kämpfte, und ein Steuerempfänger in Uckerath, in dessen Haus beide Seiten wohnten. Acht Darstellungen, französisch und deutsch, mit Übersetzungen.",
+   "warum_en": "The action that gives the apparatus its title: Kray's advance guard against Kléber's rearguard, the assault on the height behind Kircheib, the grenadiers under Mylius, 14,000 or 40,000 men, whether Kléber fought against his instructions, and a tax collector at Uckerath in whose house both sides lodged. Eight accounts, French and German, with translations.",
+   "quelle": "Carl II (1814) S. 92–99; Angeli I (1896) S. 115–118; Jourdan (1818) S. 40–43, 247; Kléber an Jourdan, bei Pajol (1877) S. 216–219; Pajol (1874) S. 303–306; Kray an seinen Bruder (1796, gedruckt 1909) S. 193–196; ÖMZ 1877 S. 326; Bleibtreu (1834) S. 86–88",
+   "datei": "kircheib",
+   "zk": "Kircheib"
+  }
+ ],
+ "planned": [
   {
    "id": "land",
    "side": "land",
