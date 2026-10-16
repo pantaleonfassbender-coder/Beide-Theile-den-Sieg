@@ -157,6 +157,28 @@
    "source": "Wikimedia Commons, Michel Ney (1792).jpg",
    "url": "https://commons.wikimedia.org/wiki/File:Michel_Ney_%281792%29.jpg",
    "cite": "#/text/kircheib/gefecht/12"
+  },
+  {
+   "id": "vizland",
+   "side": "land",
+   "titel": "Was die Armeen 1796 nahmen",
+   "titel_en": "What the armies took in 1796",
+   "caption": "Grafik des Apparats: die Lieferungen und Beuten, die in den Texten des Apparats mit Zahlen belegt sind, nach Seiten getrennt, jede mit ihrem Beleg. Keine Summe; die Quellen sind zu lückenhaft, und die Wiesbadener Zahlen betreffen nicht das Gebiet zwischen Sieg und Westerwald.",
+   "caption_en": "The apparatus's graphic: the deliveries and captures documented with figures in the apparatus's texts, separated by side, each with its reference. No total; the sources are too incomplete, and the Wiesbaden figures do not concern the area between the Sieg and the Westerwald.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/land/lasten/5"
+  },
+  {
+   "id": "neuwied",
+   "side": "land",
+   "titel": "Neuwied, 1784",
+   "titel_en": "Neuwied, 1784",
+   "caption": "Neuwied aus der Vogelschau, Stich von 1784, Zeichner unbekannt: die Stadt mit ihren rechtwinklig angelegten Straßen, dahinter der Rhein. Zwölf Jahre später lag die Stadt zwischen den Fronten, die Franzosen auf der Rheininsel, die Österreicher in der Stadt.",
+   "caption_en": "Neuwied from a bird's-eye view, engraving of 1784, artist unknown: the town with its streets laid out at right angles, the Rhine behind. Twelve years later the town lay between the lines, the French on the Rhine island, the Austrians in the town.",
+   "source": "Wikimedia Commons, Neuwied 1784.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Neuwied_1784.jpg",
+   "cite": "#/text/land/stadt/12"
   }
  ]
 }

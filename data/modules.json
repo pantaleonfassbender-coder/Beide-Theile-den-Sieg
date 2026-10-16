@@ -32,18 +32,20 @@
    "quelle": "Carl II (1814) S. 92–99; Angeli I (1896) S. 115–118; Jourdan (1818) S. 40–43, 247; Kléber an Jourdan, bei Pajol (1877) S. 216–219; Pajol (1874) S. 303–306; Kray an seinen Bruder (1796, gedruckt 1909) S. 193–196; ÖMZ 1877 S. 326; Bleibtreu (1834) S. 86–88",
    "datei": "kircheib",
    "zk": "Kircheib"
-  }
- ],
- "planned": [
+  },
   {
    "id": "land",
    "side": "land",
    "kurz": "Land und Leute: Requisition, Neutralität, Plünderung",
    "kurz_en": "Land and people: requisition, neutrality, plunder",
-   "warum": "Was die beiden Armeen von den Dörfern forderten, was die Neutralität galt, und was die Heerführer selbst über Plünderung schrieben.",
-   "warum_en": "What the two armies demanded of the villages, what neutrality was worth, and what the commanders themselves wrote about plunder.",
-   "quelle": "Jourdan (1818); Pajol (1874); Bleibtreu (1834); zeitgenössische Zeitungen"
-  },
+   "warum": "Was die beiden Armeen vom Land nahmen und was die Bewohner davon trugen: Jourdans Instruktion, auf Kosten des Landes zu leben und Dörfer, die sich wehren, niederzubrennen; Klébers Aufruf zur Mannszucht; Requisitionen beider Seiten; ein Tagebuch aus Wiesbaden und eine Stadt zwischen den Fronten.",
+   "warum_en": "What the two armies took from the country and what the inhabitants bore: Jourdan's instruction to live at the expense of the country and to burn villages that resist; Kléber's appeal for discipline; requisitions on both sides; a diary from Wiesbaden and a town between the lines.",
+   "quelle": "Jourdan (1818) S. 209, 239–244; Kléber bei Pajol (1877) S. 202–205; National-Zeitung der Deutschen (1796) Sp. 1013–1015; Lautz, hg. Otto (1889/90) S. 78–92; Bleibtreu (1834) S. 81, 84–85, 89",
+   "datei": "land",
+   "zk": "Land"
+  }
+ ],
+ "planned": [
   {
    "id": "marceau",
    "side": "frz",

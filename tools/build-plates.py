@@ -86,6 +86,14 @@ PLATES = [
      "Michel Ney als Unterleutnant der Husaren 1792, Bildnis von Adolphe Brune, 1834, Versailles. Am 19. Juni 1796 führte er als Generaladjutant Dragoner gegen Krays Reiterei; der Marschall des Kaiserreichs wurde er erst später.",
      "Michel Ney as a sub-lieutenant of hussars in 1792, portrait by Adolphe Brune, 1834, Versailles. On 19 June 1796, as adjutant-general, he led dragoons against Kray's cavalry; he became a marshal of the Empire only later.",
      "#/text/kircheib/gefecht/12"),
+    ("vizland", "land", "viz:vizland", "Was die Armeen 1796 nahmen", "What the armies took in 1796",
+     "Grafik des Apparats: die Lieferungen und Beuten, die in den Texten des Apparats mit Zahlen belegt sind, nach Seiten getrennt, jede mit ihrem Beleg. Keine Summe; die Quellen sind zu lückenhaft, und die Wiesbadener Zahlen betreffen nicht das Gebiet zwischen Sieg und Westerwald.",
+     "The apparatus's graphic: the deliveries and captures documented with figures in the apparatus's texts, separated by side, each with its reference. No total; the sources are too incomplete, and the Wiesbaden figures do not concern the area between the Sieg and the Westerwald.",
+     "#/text/land/lasten/5"),
+    ("neuwied", "land", "commons:Neuwied 1784.jpg", "Neuwied, 1784", "Neuwied, 1784",
+     "Neuwied aus der Vogelschau, Stich von 1784, Zeichner unbekannt: die Stadt mit ihren rechtwinklig angelegten Straßen, dahinter der Rhein. Zwölf Jahre später lag die Stadt zwischen den Fronten, die Franzosen auf der Rheininsel, die Österreicher in der Stadt.",
+     "Neuwied from a bird's-eye view, engraving of 1784, artist unknown: the town with its streets laid out at right angles, the Rhine behind. Twelve years later the town lay between the lines, the French on the Rhine island, the Austrians in the town.",
+     "#/text/land/stadt/12"),
 ]
 
 

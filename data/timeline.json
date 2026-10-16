@@ -16,6 +16,19 @@
    "plate": "jourdan"
   },
   {
+   "d": "26. Mai 1796",
+   "d_en": "26 May 1796",
+   "side": "frz",
+   "titel": "„Aux dépens du pays“",
+   "titel_en": "“Aux dépens du pays”",
+   "text": "Jourdans Instruktion für Kléber: nur preußisches und hessisches Gebiet achten, überall Kontributionen erheben, auf Kosten des Landes leben, Dörfer, die sich bewaffnet wehren, niederbrennen.",
+   "text_en": "Jourdan's instruction for Kléber: respect only Prussian and Hessian territory, levy contributions everywhere, live at the expense of the country, burn villages that resist in arms.",
+   "cite": "#/text/land/befehle/1",
+   "citeLabel": "Jourdan S. 239–244",
+   "citeLabel_en": "Jourdan pp. 239–244",
+   "plate": "vizland"
+  },
+  {
    "d": "31. Mai 1796",
    "d_en": "31 May 1796",
    "side": "frz",
@@ -163,6 +176,43 @@
    "cite": "#/text/kircheib/uckerath/24",
    "citeLabel": "Bleibtreu S. 87–88; Carl II S. 99; Pajol 1877 S. 219",
    "citeLabel_en": "Bleibtreu pp. 87–88; Charles II p. 99; Pajol 1877 p. 219"
+  },
+  {
+   "d": "21. Juni 1796",
+   "d_en": "21 June 1796",
+   "side": "land",
+   "titel": "Ein Kind in Neuwied",
+   "titel_en": "A child at Neuwied",
+   "text": "Die erste Kanonenkugel des Tages aus der französischen Redoute tötet gegenüber der reformierten Kirche die zehnjährige Tochter des Bürgers Schaumburg.",
+   "text_en": "The first cannon ball of the day from the French redoubt kills the ten-year-old daughter of the citizen Schaumburg opposite the Reformed church.",
+   "cite": "#/text/land/stadt/12",
+   "citeLabel": "Bleibtreu S. 84–85",
+   "citeLabel_en": "Bleibtreu pp. 84–85",
+   "plate": "neuwied"
+  },
+  {
+   "d": "28. Juli 1796",
+   "d_en": "28 July 1796",
+   "side": "land",
+   "titel": "Geiseln und ein Mord",
+   "titel_en": "Hostages and a murder",
+   "text": "Ein Wiesbadener Tagebuch verzeichnet die Geiseln, die Marceau in Frankfurt nehmen ließ, und fünf französische Artilleristen, die in drei Dörfern plündern und einen Schultheißen und seine Frau töten.",
+   "text_en": "A Wiesbaden diary records the hostages Marceau had taken in Frankfurt, and five French artillerymen who plunder three villages and kill a Schultheiß and his wife.",
+   "cite": "#/text/land/gewalt/11",
+   "citeLabel": "Lautz S. 92",
+   "citeLabel_en": "Lautz p. 92"
+  },
+  {
+   "d": "Oktober 1796",
+   "d_en": "October 1796",
+   "side": "kais",
+   "titel": "1.200 Wagen",
+   "titel_en": "1,200 wagons",
+   "text": "Der Erzherzog klagt über ein „ganz ausgesogenes Land“ an Westerwald und Sieg, requiriert 1.200 Wagen und legt ein Exekutionskommando in das Haus des Generalquartiermeisters der Kreise in Frankfurt.",
+   "text_en": "The Archduke complains of a country “sucked entirely dry” in the Westerwald and on the Sieg, requisitions 1,200 wagons and puts an execution detachment in the house of the Circles' quartermaster-general in Frankfurt.",
+   "cite": "#/text/land/lasten/6",
+   "citeLabel": "National-Zeitung 1796, Sp. 1015",
+   "citeLabel_en": "National-Zeitung 1796, col. 1015"
   }
  ]
 }

@@ -390,6 +390,129 @@
      "autor_en": "Stockhausen in Bleibtreu (1834)"
     }
    ]
+  },
+  {
+   "id": "mannszucht",
+   "titel": "Mannszucht: Befehl und Bilanz",
+   "titel_en": "Discipline: order and balance",
+   "frage": "Im Mai verspricht Kléber, die Hütten der Bauern würden eine sichere Zuflucht sein, und droht Plünderern mit schrecklichen Exempeln; 1818 räumt Jourdan ein, dass seine Offiziere vom Plündern lebten.",
+   "frage_en": "In May Kléber promises that the peasants' cottages will be a safe refuge and threatens plunderers with terrible examples; in 1818 Jourdan admits that his officers lived by plunder.",
+   "note": "Zwischen Befehl und Bilanz liegt der ganze Feldzug. Jourdan erklärt das Plündern mit dem fehlenden Sold; die Instruktion vom 26. Mai hatte die Armee selbst angewiesen, auf Kosten des Landes zu leben.",
+   "note_en": "Between the order and the balance lies the whole campaign. Jourdan explains the plundering by the missing pay; the instruction of 26 May had itself told the army to live at the expense of the country.",
+   "voices": [
+    {
+     "text": "land",
+     "sec": "befehle",
+     "n": [
+      3
+     ],
+     "side": "frz",
+     "autor": "Kléber (25. Mai 1796)",
+     "autor_en": "Kléber (25 May 1796)"
+    },
+    {
+     "text": "land",
+     "sec": "befehle",
+     "n": [
+      4
+     ],
+     "side": "frz",
+     "autor": "Kléber (30. Mai 1796)",
+     "autor_en": "Kléber (30 May 1796)"
+    },
+    {
+     "text": "land",
+     "sec": "gewalt",
+     "n": [
+      9
+     ],
+     "side": "frz",
+     "autor": "Jourdan (1818)",
+     "autor_en": "Jourdan (1818)"
+    }
+   ]
+  },
+  {
+   "id": "requisition",
+   "titel": "Requisition auf beiden Seiten",
+   "titel_en": "Requisition on both sides",
+   "frage": "Jourdan befiehlt, auf Kosten des Landes zu leben und Quittungen zu geben; der Erzherzog wirft dem Feind „grausame Mittel“ vor und requiriert selbst 1.200 Wagen; Neuwied liefert Brot, Fleisch, Fourage und tausend Arbeiter.",
+   "frage_en": "Jourdan orders his army to live at the expense of the country and to give receipts; the Archduke accuses the enemy of “cruel means” and himself requisitions 1,200 wagons; Neuwied supplies bread, meat, forage and a thousand workers.",
+   "note": "Der Unterschied, den der Erzherzog sieht, ist die Bezahlung aus der Kriegskasse. Für das Land war beides Last; eine Abrechnung, wie sie für Wiesbaden erhalten ist, fehlt für die Dörfer zwischen Sieg und Westerwald.",
+   "note_en": "The difference the Archduke sees is payment from the war chest. For the country both were a burden; an account such as survives for Wiesbaden is missing for the villages between the Sieg and the Westerwald.",
+   "voices": [
+    {
+     "text": "land",
+     "sec": "befehle",
+     "n": [
+      1
+     ],
+     "side": "frz",
+     "autor": "Jourdan (26. Mai 1796)",
+     "autor_en": "Jourdan (26 May 1796)"
+    },
+    {
+     "text": "land",
+     "sec": "lasten",
+     "n": [
+      6
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl in der National-Zeitung",
+     "autor_en": "Archduke Charles in the National-Zeitung"
+    },
+    {
+     "text": "land",
+     "sec": "lasten",
+     "n": [
+      5
+     ],
+     "side": "zeugen",
+     "autor": "Bleibtreu (1834)",
+     "autor_en": "Bleibtreu (1834)"
+    }
+   ]
+  },
+  {
+   "id": "neutralitaet",
+   "titel": "Was Neutralität galt",
+   "titel_en": "What neutrality was worth",
+   "frage": "Jourdans Instruktion schützt nur preußisches und hessisches Gebiet; die Grafschaft Altenkirchen war preußisch verwaltet und galt als neutral; dennoch kämpften beide Armeen dort mehrmals, und bei Bendorf führten österreichische Vorposten die französische Schutzwache weg.",
+   "frage_en": "Jourdan's instruction protects only Prussian and Hessian territory; the county of Altenkirchen was under Prussian administration and counted as neutral; yet both armies fought there more than once, and at Bendorf Austrian outposts led away the French safeguard.",
+   "note": "Nach Jourdans Instruktion sollte die Armee preußisches Gebiet achten; vor Gefechten auf diesem Gebiet schützte das nicht. Dahlhoffs Satz, die Bewohner hätten „sehr durch die französischen und österreichischen Truppen“ gelitten, gilt gerade für das neutrale Altenkirchen.",
+   "note_en": "According to Jourdan's instruction the army was to respect Prussian territory; that did not protect against battles fought on it. Dahlhoff's sentence that the inhabitants “suffered greatly from the French and Austrian troops” applies precisely to neutral Altenkirchen.",
+   "voices": [
+    {
+     "text": "land",
+     "sec": "befehle",
+     "n": [
+      1
+     ],
+     "side": "frz",
+     "autor": "Jourdan (26. Mai 1796)",
+     "autor_en": "Jourdan (26 May 1796)"
+    },
+    {
+     "text": "feldzug",
+     "sec": "land",
+     "n": [
+      13
+     ],
+     "side": "land",
+     "autor": "Dahlhoff (1874)",
+     "autor_en": "Dahlhoff (1874)"
+    },
+    {
+     "text": "feldzug",
+     "sec": "land",
+     "n": [
+      14
+     ],
+     "side": "zeugen",
+     "autor": "Bleibtreu (1834)",
+     "autor_en": "Bleibtreu (1834)"
+    }
+   ]
   }
  ]
 }
