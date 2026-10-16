@@ -1,5 +1,7 @@
 # Beide Theile den Sieg – Both Sides Claimed the Victory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23427113.svg)](https://doi.org/10.5281/zenodo.23427113)
+
 Altenkirchen, Kircheib und Höchstenbach 1796: ein zweisprachiger Quellenapparat zu drei Gefechten an derselben Straße zwischen Sieg und Westerwald, am 4. Juni, 19. Juni und 19. September 1796. Gemeinfreie Drucke im deutschen, französischen oder englischen Original, mit eigener deutscher und englischer Übersetzung; Oberfläche Deutsch und Englisch.
 
 Altenkirchen, Kircheib and Höchstenbach, 1796: a bilingual documentary apparatus on three actions along the same road between the Sieg and the Westerwald. Public-domain prints in the German, French or English original, with German and English translations; interface in German and English.
@@ -8,7 +10,7 @@ Der Titel ist ein Satz des Erzherzogs Carl über den 19. Juni: „Beide Theile e
 
 Live: https://beide-theile-den-sieg.netlify.app/
 
-**Stufe 1 abgeschlossen (Version 1.0.0, 16. Oktober 2026):** sechs Module mit 103 Stellen, 21 Tafeln, 25 Zeitleistenstationen und 18 Vergleiche.
+**Stufe 1 abgeschlossen (Version 1.0.0, 17. Oktober 2026):** sechs Module mit 103 Stellen, 21 Tafeln, 25 Zeitleistenstationen und 18 Vergleiche.
 
 1. *Der Feldzug am Niederrhein und die Territorien, 1795–1796* (Jourdan 1818, Erzherzog Carl 1814, Dahlhoff 1874, Bleibtreu 1834)
 2. *Altenkirchen, 4. Juni 1796* (Jourdan, Carl, Klébers Meldungen bei Pajol 1877, Angeli 1896, Soult 1854, Schels 1841, Regimentsgeschichte Jordis 1812)
@@ -21,7 +23,7 @@ Jede Stelle ist am Seitenbild gelesen, in der Schreibung des Drucks. Die Anmerku
 
 ## Zitieren
 
-Fassbender, Pantaleon. *Beide Theile den Sieg. Altenkirchen, Kircheib und Höchstenbach 1796. Ein zweisprachiger Quellenapparat.* 2026. https://beide-theile-den-sieg.netlify.app/. Bitte zitieren Sie für jede wörtlich übernommene Stelle auch die gedruckte Quelle. Metadaten: `CITATION.cff`, `.zenodo.json`.
+Fassbender, Pantaleon. *Beide Theile den Sieg. Altenkirchen, Kircheib und Höchstenbach 1796. Ein zweisprachiger Quellenapparat.* 2026. https://doi.org/10.5281/zenodo.23427113 (alle Versionen; Version 1.0.0: https://doi.org/10.5281/zenodo.23427114). Bitte zitieren Sie für jede wörtlich übernommene Stelle auch die gedruckte Quelle. Metadaten: `CITATION.cff`, `.zenodo.json`.
 
 ## Prüfen
 
