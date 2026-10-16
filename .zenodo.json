@@ -1,0 +1,41 @@
+{
+  "upload_type": "dataset",
+  "title": "Beide Theile den Sieg. Altenkirchen, Kircheib und Höchstenbach 1796. Ein zweisprachiger Quellenapparat",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>Ein zweisprachiger digitaler Quellenapparat zu drei Gefechten des Feldzugs von 1796 an derselben Straße zwischen Sieg und Westerwald: Altenkirchen am 4. Juni, Kircheib und Uckerath am 19. Juni, Höchstenbach am 19. September, wo General Marceau tödlich verwundet wurde. Der Titel ist ein Satz des Erzherzogs Carl über den 19. Juni: „Beide Theile eigneten sich den Sieg zu, beide hatten tapfer gekämpft und viel verloren.“</p><p>Stufe 1: sechs Module mit 103 Stellen. <em>Der Feldzug am Niederrhein und die Territorien</em> (Jourdan 1818, Erzherzog Carl 1814, Dahlhoff, Bleibtreu); <em>Altenkirchen, 4. Juni 1796</em> (Klébers Meldungen, Angeli 1896 nach den Akten des Wiener Kriegsarchivs, Soult, Schels, Regimentsgeschichte Jordis); <em>Kircheib und Uckerath, 19. Juni 1796</em> (Klébers zwei Briefe vom Tag, Pajol, Krays Brief an seinen Bruder, der Augenzeuge Stockhausen); <em>Land und Leute</em> (Jourdans Instruktion, auf Kosten des Landes zu leben, Requisitionen beider Seiten, ein Wiesbadener Tagebuch, Neuwied zwischen den Fronten); <em>Höchstenbach und Marceau</em> (das Journal des Hauptmanns Souhait vom Sterbebett in Altenkirchen, die Ehren der Gegner); <em>Erinnerung</em> (Grab und Verbrennung auf dem Petersberg, Byron 1816, Abbruch für die preußische Festung).</p><p>Jede Stelle ist am Seitenbild eines gemeinfreien Drucks gelesen, französische Texte mit deutscher, alle Texte mit englischer Übersetzung. Die Anmerkungen benennen Widersprüche (14.000 oder 40.000 Mann, 3.000 Gefangene oder zehn Kompanien, fünf Todesstunden) und die Gewalt beider Armeen gegen das Land. Mit 21 Tafeln (gemeinfreie Bildnisse, Ausschnitte der Tranchot-Karte, eigene Grafiken), 18 Vergleichen, einer Zeitleiste und einer Liste der geprüften und nicht aufgenommenen Quellen.</p><p><em>English:</em> A bilingual documentary apparatus on three actions of the 1796 campaign on the same road between the Sieg and the Westerwald: Altenkirchen (4 June), Kircheib and Uckerath (19 June), and Höchstenbach (19 September), where General Marceau was mortally wounded. Six modules, 103 passages from public-domain prints in German, French and English, each read against page images, with German and English translations, notes on the contradictions between the sources and the violence of both armies, 21 plates, 18 comparisons, a timeline and a list of sources examined and not included.</p><p>Lizenzen: Code MIT; redaktionelle Texte CC BY 4.0; Editionen und Übersetzungen CC0 1.0 &mdash; siehe LICENSES.md. Live: https://beide-theile-den-sieg.netlify.app/</p>",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Feldzug 1796",
+    "Altenkirchen",
+    "Kircheib",
+    "Uckerath",
+    "Höchstenbach",
+    "Westerwald",
+    "Marceau",
+    "Kléber",
+    "Erzherzog Carl",
+    "Kray",
+    "Französische Revolutionskriege",
+    "Sambre-und-Maas-Armee",
+    "Quellenedition",
+    "Digital Humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://beide-theile-den-sieg.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://github.com/pantaleonfassbender-coder/Beide-Theile-Spiel",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ]
+}

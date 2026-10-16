@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Beide Theile den Sieg. Altenkirchen, Kircheib und Höchstenbach 1796. Ein zweisprachiger Quellenapparat"
+message: "Wenn Sie diesen Apparat benutzen, zitieren Sie ihn bitte wie unten angegeben, und zitieren Sie für jede übernommene Stelle auch die gedruckte Quelle. / If you use this apparatus, please cite it as below, and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/Beide-Theile-den-Sieg"
+url: "https://beide-theile-den-sieg.netlify.app/"
+abstract: >-
+  Ein zweisprachiger digitaler Quellenapparat zu drei Gefechten des Feldzugs
+  von 1796 zwischen Sieg und Westerwald (Altenkirchen 4. Juni, Kircheib und
+  Uckerath 19. Juni, Höchstenbach 19. September): sechs Module mit 103 Stellen
+  aus gemeinfreien Drucken (Erzherzog Carl, Jourdan, Kléber, Angeli, Pajol,
+  Kray, Soult, Souhait, Bleibtreu, Stramberg, Byron), jede am Seitenbild
+  gelesen, mit deutscher und englischer Übersetzung, Anmerkungen, 21 Tafeln,
+  18 Vergleichen, Zeitleiste und einer Liste der geprüften und nicht
+  aufgenommenen Quellen.
+keywords:
+  - Feldzug 1796
+  - Altenkirchen
+  - Westerwald
+  - Marceau
+  - Französische Revolutionskriege
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-16
