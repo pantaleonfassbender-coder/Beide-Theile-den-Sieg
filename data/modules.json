@@ -43,18 +43,20 @@
    "quelle": "Jourdan (1818) S. 209, 239–244; Kléber bei Pajol (1877) S. 202–205; National-Zeitung der Deutschen (1796) Sp. 1013–1015; Lautz, hg. Otto (1889/90) S. 78–92; Bleibtreu (1834) S. 81, 84–85, 89",
    "datei": "land",
    "zk": "Land"
-  }
- ],
- "planned": [
+  },
   {
    "id": "marceau",
    "side": "frz",
    "kurz": "Höchstenbach und Marceau, 19.–21. September 1796",
    "kurz_en": "Höchstenbach and Marceau, 19–21 September 1796",
-   "warum": "Der Rückzug der Sambre-und-Maas-Armee, das Gefecht am Waldrand vor Höchstenbach, der Schuss eines Tirolers und Marceaus Tod in Altenkirchen, mit fünf Todeszeiten.",
-   "warum_en": "The retreat of the Army of the Sambre and Meuse, the action at the edge of the wood before Höchstenbach, a Tyrolean's shot and Marceau's death at Altenkirchen, with five times of death.",
-   "quelle": "Angeli (1896) S. 446–449; Jourdan (1818) S. 202–207; Carl III (1814); Souhaits Journal bei Lavallée (1797); Johnson (1896)"
-  },
+   "warum": "Das dritte Gefecht: der Rückzug im September, der Wald von Höchstenbach, der Schuss eines Tirolers auf General Marceau, das Tagebuch seines Begleiters vom Sterbebett in Altenkirchen, die Gegner an seinem Bett, drei Todesstunden und ein Begräbnis mit den Ehren beider Armeen.",
+   "warum_en": "The third action: the retreat in September, the wood of Höchstenbach, a Tyrolean's shot at General Marceau, his companion's journal from the deathbed at Altenkirchen, the enemies at his bedside, three hours of death and a burial with the honours of both armies.",
+   "quelle": "Angeli I (1896) S. 446–449; Carl III (1814) S. 185–187; Jourdan (1818) S. 202–207; Soult I (1854) S. 320–321; Souhait, Journal, bei Lavallée (1797) S. 34–36, 48–50; National-Zeitung (1796) Sp. 951, 1088; Stramberg (1851) S. 307–310",
+   "datei": "marceau",
+   "zk": "Marceau"
+  }
+ ],
+ "planned": [
   {
    "id": "erinnerung",
    "side": "rezeption",

@@ -513,6 +513,149 @@
      "autor_en": "Bleibtreu (1834)"
     }
    ]
+  },
+  {
+   "id": "schuss",
+   "titel": "Der Schuss",
+   "titel_en": "The shot",
+   "frage": "Ein Husar lenkt ab, ein Tiroler hinter einem Baum schießt (Jourdan, Lavallée); ein Tiroler erkennt den General am Tressenhut (Stramberg); Marceau geht fast allein unter die feindlichen Plänkler (Soult).",
+   "frage_en": "A hussar distracts, a Tyrolean behind a tree fires (Jourdan, Lavallée); a Tyrolean recognises the general by his braided hat (Stramberg); Marceau goes almost alone among the enemy skirmishers (Soult).",
+   "note": "Die Grundzüge stimmen überein; die Einzelheiten wachsen mit dem Abstand. Den Schützen nennt keine der hier gelesenen Quellen mit Namen.",
+   "note_en": "The outlines agree; the details grow with distance. None of the sources read here names the marksman.",
+   "voices": [
+    {
+     "text": "marceau",
+     "sec": "schuss",
+     "n": [
+      5
+     ],
+     "side": "frz",
+     "autor": "Jourdan (1818)",
+     "autor_en": "Jourdan (1818)"
+    },
+    {
+     "text": "marceau",
+     "sec": "schuss",
+     "n": [
+      6
+     ],
+     "side": "frz",
+     "autor": "Lavallée (1797)",
+     "autor_en": "Lavallée (1797)"
+    },
+    {
+     "text": "marceau",
+     "sec": "schuss",
+     "n": [
+      8
+     ],
+     "side": "frz",
+     "autor": "Soult (1854)",
+     "autor_en": "Soult (1854)"
+    },
+    {
+     "text": "marceau",
+     "sec": "tod",
+     "n": [
+      13
+     ],
+     "side": "rezeption",
+     "autor": "Stramberg (1851)",
+     "autor_en": "Stramberg (1851)"
+    }
+   ]
+  },
+  {
+   "id": "todesstunde",
+   "titel": "Wann starb Marceau?",
+   "titel_en": "When did Marceau die?",
+   "frage": "Bald nach drei Uhr morgens (Souhait, am Ort und am Tag), um fünf Uhr morgens (Jourdan 1818), um sechs Uhr abends (Stramberg 1851), „nach einigen Tagen“ (Erzherzog Carl 1814).",
+   "frage_en": "Soon after three in the morning (Souhait, on the spot and on the day), at five in the morning (Jourdan 1818), at six in the evening (Stramberg 1851), “after a few days” (Archduke Charles 1814).",
+   "note": "Souhait schrieb am Todestag in Altenkirchen; er steht dem Ereignis am nächsten. Über das Datum, den 21. September, sind sich alle außer dem Erzherzog einig.",
+   "note_en": "Souhait wrote at Altenkirchen on the day of the death; he stands closest to the event. On the date, 21 September, all agree except the Archduke.",
+   "voices": [
+    {
+     "text": "marceau",
+     "sec": "tod",
+     "n": [
+      11
+     ],
+     "side": "frz",
+     "autor": "Souhait (21. Sept. 1796)",
+     "autor_en": "Souhait (21 Sept 1796)"
+    },
+    {
+     "text": "marceau",
+     "sec": "tod",
+     "n": [
+      12
+     ],
+     "side": "frz",
+     "autor": "Jourdan (1818)",
+     "autor_en": "Jourdan (1818)"
+    },
+    {
+     "text": "marceau",
+     "sec": "tod",
+     "n": [
+      13
+     ],
+     "side": "rezeption",
+     "autor": "Stramberg (1851)",
+     "autor_en": "Stramberg (1851)"
+    },
+    {
+     "text": "marceau",
+     "sec": "gefecht",
+     "n": [
+      4
+     ],
+     "side": "kais",
+     "autor": "Erzherzog Carl (1814)",
+     "autor_en": "Archduke Charles (1814)"
+    }
+   ]
+  },
+  {
+   "id": "ehren",
+   "titel": "Die Ehren der Gegner",
+   "titel_en": "The enemies' honours",
+   "frage": "Souhait verzeichnet die Besuche der Gegner am Krankenbett; Jourdan schreibt, die Österreicher seien beim Begräbnis unter die Waffen getreten; die National-Zeitung lässt die Leiche zuerst nach Metz, dann nach Koblenz gehen.",
+   "frage_en": "Souhait records the enemies' visits at the sickbed; Jourdan writes that the Austrians stood to arms at the burial; the National-Zeitung first sends the body to Metz, then to Koblenz.",
+   "note": "Dieselbe Armee steht als Gegner im Feld und als Gastgeber am Sterbebett. Dass Marceau im Juli in Frankfurt Geiseln nehmen ließ (Land [11]), erwähnt keine dieser Stimmen.",
+   "note_en": "The same army stands as enemy in the field and as host at the deathbed. That Marceau had hostages taken at Frankfurt in July (Land [11]) none of these voices mentions.",
+   "voices": [
+    {
+     "text": "marceau",
+     "sec": "tod",
+     "n": [
+      10
+     ],
+     "side": "frz",
+     "autor": "Souhait (21. Sept. 1796)",
+     "autor_en": "Souhait (21 Sept 1796)"
+    },
+    {
+     "text": "marceau",
+     "sec": "tod",
+     "n": [
+      12
+     ],
+     "side": "frz",
+     "autor": "Jourdan (1818)",
+     "autor_en": "Jourdan (1818)"
+    },
+    {
+     "text": "marceau",
+     "sec": "ehren",
+     "n": [
+      14
+     ],
+     "side": "zeugen",
+     "autor": "National-Zeitung (1796)",
+     "autor_en": "National-Zeitung (1796)"
+    }
+   ]
   }
  ]
 }

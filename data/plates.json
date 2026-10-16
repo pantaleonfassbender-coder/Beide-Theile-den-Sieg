@@ -179,6 +179,39 @@
    "source": "Wikimedia Commons, Neuwied 1784.jpg",
    "url": "https://commons.wikimedia.org/wiki/File:Neuwied_1784.jpg",
    "cite": "#/text/land/stadt/12"
+  },
+  {
+   "id": "vizmarceau",
+   "side": "frz",
+   "titel": "Marceaus letzte Stunden",
+   "titel_en": "Marceau's last hours",
+   "caption": "Grafik des Apparats: die Uhrzeiten vom 19. bis 21. September 1796, wie Lavallée, Souhait, Jourdan und Stramberg sie nennen. Die drei Todeszeiten stehen nebeneinander; der Apparat wählt keine.",
+   "caption_en": "The apparatus's graphic: the times from 19 to 21 September 1796 as Lavallée, Souhait, Jourdan and Stramberg give them. The three times of death stand side by side; the apparatus chooses none.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/marceau/tod/11"
+  },
+  {
+   "id": "marceau",
+   "side": "frz",
+   "titel": "Marceau, Farbaquatinta von Sergent",
+   "titel_en": "Marceau, colour aquatint by Sergent",
+   "caption": "François-Séverin Marceau, Farbaquatinta von Antoine-François Sergent, National Gallery of Art, Washington. Die Unterschrift nennt ihn „né à Chartres, soldat à XVI ans, général à XXIII, mort à XXVII“ und sein Grab im „fort Pétersberg (auj. Fort Marceau)“. Sergent widmete ein zweites Blatt „à son épouse Emira Marceau“ (siehe die folgende Tafel); die Bilder entstanden in Marceaus Familie.",
+   "caption_en": "François-Séverin Marceau, colour aquatint by Antoine-François Sergent, National Gallery of Art, Washington. The legend calls him “born at Chartres, soldier at 16, general at 23, dead at 27” and names his grave in the “fort Pétersberg (now Fort Marceau)”. Sergent dedicated a second sheet “to his wife Emira Marceau” (see the next plate); the images came from Marceau's family.",
+   "source": "Wikimedia Commons, Antoine-François Sergent, General Francois Severin Desgraviers Marceau, NGA 43328.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:Antoine-Fran%C3%A7ois_Sergent%2C_General_Francois_Severin_Desgraviers_Marceau%2C_NGA_43328.jpg",
+   "cite": "#/text/marceau/schuss/5"
+  },
+  {
+   "id": "grabmal",
+   "side": "frz",
+   "titel": "„A la mémoire du général Marceau“, 1797",
+   "titel_en": "“A la mémoire du général Marceau”, 1797",
+   "caption": "Aquatinta von Sergent, 1797, Bibliothèque nationale de France: ein Grabmal unter Kiefern in einer Landschaft, davor trauernde Frauen und ein Soldat. Die Inschrift: „mort de ses blessures à Altenkirchen, âgé de XXVII ans“. Ein erdachtes Bild, kein Abbild des Grabes auf dem Petersberg.",
+   "caption_en": "Aquatint by Sergent, 1797, Bibliothèque nationale de France: a tomb under pines in a landscape, with mourning women and a soldier. The inscription: “died of his wounds at Altenkirchen, aged 27”. An imagined picture, not a likeness of the grave on the Petersberg.",
+   "source": "Wikimedia Commons, A la mémoire du général Marceau mort de ses blessures à Altenkirchen, agé de XXVII ans, l'an IV de la République française... - estampe - gravé par Sergent et offert à son épouse Emira Marceau - btv1b84126268.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:A_la_m%C3%A9moire_du_g%C3%A9n%C3%A9ral_Marceau_mort_de_ses_blessures_%C3%A0_Altenkirchen%2C_ag%C3%A9_de_XXVII_ans%2C_l%27an_IV_de_la_R%C3%A9publique_fran%C3%A7aise..._-_estampe_-_grav%C3%A9_par_Sergent_et_offert_%C3%A0_son_%C3%A9pouse_Emira_Marceau_-_btv1b84126268.jpg",
+   "cite": "#/text/marceau/ehren/15"
   }
  ]
 }
