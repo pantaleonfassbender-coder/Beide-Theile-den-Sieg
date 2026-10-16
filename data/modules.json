@@ -1,0 +1,30 @@
+{
+ "shipped": [],
+ "planned": [
+  {"id": "feldzug", "side": "kais", "kurz": "Der Feldzug am Niederrhein und die Territorien, 1795–1796", "kurz_en": "The campaign on the Lower Rhine and the territories, 1795–1796",
+   "warum": "Waffenstillstand, Kündigung und Aufmarsch an der Sieg; wem die Dörfer zwischen Siegburg und Hachenburg gehörten, und warum Altenkirchen neutral war.",
+   "warum_en": "Armistice, its end and the deployment on the Sieg; to whom the villages between Siegburg and Hachenburg belonged, and why Altenkirchen was neutral.",
+   "quelle": "Erzherzog Carl, Grundsätze der Strategie, II. Theil (Wien 1814); Angeli, Erzherzog Carl als Feldherr, Bd. I (1896); Bleibtreu (1834)"},
+  {"id": "altenkirchen", "side": "frz", "kurz": "Altenkirchen, 4. Juni 1796", "kurz_en": "Altenkirchen, 4 June 1796",
+   "warum": "Kléber gegen Württemberg: drei Kolonnen über Hilgenroth, die Chaussee und Mehren, das Regiment Jordis bei Kroppach, und wie viele Gefangene es waren.",
+   "warum_en": "Kléber against Württemberg: three columns by Hilgenroth, the high road and Mehren, the regiment Jordis at Kroppach, and how many prisoners there were.",
+   "quelle": "Angeli (1896) S. 70–81; Carl II (1814) S. 46–56; Jourdan, Mémoires (1818) S. 26–31; Kléber bei Pajol (1877) S. 209–213; Soult, Mémoires I (1854); Schels (1841)"},
+  {"id": "kircheib", "side": "kais", "kurz": "Kircheib und Uckerath, 19. Juni 1796", "kurz_en": "Kircheib and Uckerath, 19 June 1796",
+   "warum": "Kray gegen Kléber: der Überfall in der Nacht, der Sturm auf Kircheib, die Grenadiere unter Mylius, 14.000 oder 40.000 Mann, und ein Augenzeuge in Uckerath.",
+   "warum_en": "Kray against Kléber: the night raid, the assault on Kircheib, the grenadiers under Mylius, 14,000 or 40,000 men, and an eyewitness at Uckerath.",
+   "quelle": "Pajol, Pajol général en chef I (1874) S. 302–306; Angeli (1896) S. 115–118; Carl II (1814) S. 92–99; Klébers Briefe bei Jourdan (1818); Bleibtreu (1834)"},
+  {"id": "land", "side": "land", "kurz": "Land und Leute: Requisition, Neutralität, Plünderung", "kurz_en": "Land and people: requisition, neutrality, plunder",
+   "warum": "Was die beiden Armeen von den Dörfern forderten, was die Neutralität galt, und was die Heerführer selbst über Plünderung schrieben.",
+   "warum_en": "What the two armies demanded of the villages, what neutrality was worth, and what the commanders themselves wrote about plunder.",
+   "quelle": "Jourdan (1818); Pajol (1874); Bleibtreu (1834); zeitgenössische Zeitungen"},
+  {"id": "marceau", "side": "frz", "kurz": "Höchstenbach und Marceau, 19.–21. September 1796", "kurz_en": "Höchstenbach and Marceau, 19–21 September 1796",
+   "warum": "Der Rückzug der Sambre-und-Maas-Armee, das Gefecht am Waldrand vor Höchstenbach, der Schuss eines Tirolers und Marceaus Tod in Altenkirchen, mit fünf Todeszeiten.",
+   "warum_en": "The retreat of the Army of the Sambre and Meuse, the action at the edge of the wood before Höchstenbach, a Tyrolean's shot and Marceau's death at Altenkirchen, with five times of death.",
+   "quelle": "Angeli (1896) S. 446–449; Jourdan (1818) S. 202–207; Carl III (1814); Souhaits Journal bei Lavallée (1797); Johnson (1896)"},
+  {"id": "erinnerung", "side": "rezeption", "kurz": "Erinnerung", "kurz_en": "Memory",
+   "warum": "Wie die Gegend den 19. Juni als Sieg erinnerte, die Ehren für Marceau, sein Grab und was daraus wurde.",
+   "warum_en": "How the region remembered 19 June as a victory, the honours for Marceau, his grave and what became of it.",
+   "quelle": "Bleibtreu (1834); Johnson (1896); Ortsdarstellungen des 19. Jahrhunderts"}
+ ],
+ "missing": []
+}
