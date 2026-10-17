@@ -40,7 +40,7 @@ python tools/verify.py
 
 Lokal: `python -m http.server` im Repository, dann `http://localhost:8000/`.
 
-Das Begleitspiel, ein Hexspiel über die drei Gefechte für beide Seiten, entsteht im Repository *Beide-Theile-Spiel*: https://beide-theile-spiel.netlify.app/
+Das Begleitspiel, ein Hexspiel über die drei Gefechte für beide Seiten mit drei Szenarien (Altenkirchen, Kircheib, Höchstenbach), liegt im Repository *Beide-Theile-Spiel*: https://beide-theile-spiel.netlify.app/
 
 ## Lizenzen
 
